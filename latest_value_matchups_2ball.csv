@@ -1,21 +1,105 @@
 group_id,player_name,dg_id,odds,book,p_model,p_push,opponents,market_odds_best_dec,market_book_best,edge_prob,ev_per_unit,value_flag,bet_flag
 0,"McIlroy, Rory",10091,3.5,betmgm,0.2874,0.0408,"Scheffler, Scottie",3.5,betmgm,0.0016857142857142904,0.046699999999999964,True,False
-0,"Scheffler, Scottie",18417,1.3,betmgm,0.7126,0.0408,"McIlroy, Rory",1.3,betmgm,-0.05663076923076915,-0.03281999999999996,False,False
-50,"Fleetwood, Tommy",12294,2.0,betmgm,0.3641,0.0382,"Kim, Si Woo",2.0,betmgm,-0.13590000000000002,-0.23360000000000003,False,False
-50,"Kim, Si Woo",14609,1.8,betmgm,0.6359,0.0382,"Fleetwood, Tommy",1.8,betmgm,0.08034444444444444,0.1828200000000001,True,True
-51,"Henley, Russell",14578,1.85,betmgm,0.4746,0.046,"Hovland, Viktor",1.85,betmgm,-0.06594054054054044,-0.07598999999999995,False,False
-51,"Hovland, Viktor",18841,1.95,betmgm,0.5254,0.046,"Henley, Russell",1.95,betmgm,0.012579487179487092,0.07052999999999993,True,False
-52,"Rose, Justin",6093,1.95,betmgm,0.4871,0.0346,"Matsuyama, Hideki",1.95,betmgm,-0.02572051282051291,-0.015555000000000041,False,False
-52,"Matsuyama, Hideki",13562,1.85,betmgm,0.5129,0.0346,"Rose, Justin",1.85,betmgm,-0.027640540540540437,-0.01653499999999991,False,False
-53,"Knapp, Jake",19396,2.0,betmgm,0.4173,0.0434,"Schauffele, Xander",2.0,betmgm,-0.0827,-0.122,False,False
-53,"Schauffele, Xander",19895,1.8,betmgm,0.5827,0.0434,"Knapp, Jake",1.8,betmgm,0.027144444444444416,0.09226000000000001,True,False
-54,"Young, Cameron",26651,2.0,betmgm,0.4538,0.0376,"Gotterup, Chris",2.0,betmgm,-0.04620000000000002,-0.05480000000000007,False,False
-54,"Gotterup, Chris",27774,1.8,betmgm,0.5462,0.0376,"Young, Cameron",1.8,betmgm,-0.009355555555555561,0.020760000000000056,False,False
-55,"Lowry, Shane",13900,1.9,betmgm,0.4947,0.0402,"Berger, Daniel",1.9,betmgm,-0.03161578947368421,-0.01987000000000011,False,False
-55,"Berger, Daniel",17606,1.9,betmgm,0.5053,0.0402,"Lowry, Shane",1.9,betmgm,-0.02101578947368421,0.00026999999999993696,False,False
-56,"Griffin, Ben",24968,1.73,betmgm,0.537,0.042,"Coody, Pierceson",1.73,betmgm,-0.04103468208092487,-0.02898999999999996,False,False
-56,"Coody, Pierceson",28309,2.1,betmgm,0.463,0.042,"Griffin, Ben",2.1,betmgm,-0.013190476190476141,0.014300000000000146,False,False
-57,"Fowler, Rickie",12965,1.95,betmgm,0.5161,0.0422,"English, Harris",1.95,betmgm,0.003279487179487117,0.048595,True,False
-57,"English, Harris",14577,1.85,betmgm,0.4839,0.0422,"Fowler, Rickie",1.85,betmgm,-0.05664054054054046,-0.06258499999999995,False,False
-58,"Straka, Sepp",17511,1.9,betmgm,0.5513,0.039,"Burns, Sam",1.9,betmgm,0.02498421052631583,0.08646999999999994,True,False
-58,"Burns, Sam",19483,1.9,betmgm,0.4487,0.039,"Straka, Sepp",1.9,betmgm,-0.0776157894736842,-0.10847000000000001,False,False
+0,"Scheffler, Scottie",18417,1.318,pinnacle,0.7126,0.0408,"McIlroy, Rory",1.318,pinnacle,-0.046125341426403565,-0.019993199999999933,False,False
+2,"Fleetwood, Tommy",12294,1.884,pinnacle,0.4606,0.042,"Henley, Russell",1.884,pinnacle,-0.07018556263269637,-0.09022960000000002,False,False
+2,"Henley, Russell",14578,1.934,pinnacle,0.5394,0.042,"Fleetwood, Tommy",1.934,pinnacle,0.02233691830403306,0.08519959999999999,True,False
+4,"Rose, Justin",6093,2.06,pinnacle,0.5198,0.0388,"McNealy, Maverick",2.06,pinnacle,0.03436310679611654,0.10958800000000007,True,False
+4,"McNealy, Maverick",18634,1.775,pinnacle,0.4802,0.0388,"Rose, Justin",1.775,pinnacle,-0.08318028169014086,-0.10884500000000008,False,False
+5,"MacIntyre, Robert",23323,1.74,pinnacle,0.5211,0.0418,"Aberg, Ludvig",1.74,pinnacle,-0.053612643678160876,-0.051485999999999976,False,False
+5,"Aberg, Ludvig",23950,2.11,pinnacle,0.4789,0.0418,"MacIntyre, Robert",2.11,pinnacle,0.004966350710900458,0.05227899999999991,True,False
+6,"Knapp, Jake",19396,1.877,pinnacle,0.4658,0.0336,"Thorbjornsen, Michael",1.877,pinnacle,-0.06696505061267977,-0.09209340000000005,False,False
+6,"Thorbjornsen, Michael",26649,1.943,pinnacle,0.5342,0.0336,"Knapp, Jake",1.943,pinnacle,0.019531960885229016,0.07155060000000008,True,False
+7,"Fitzpatrick, Matt",17646,2.04,pinnacle,0.4673,0.0394,"Griffin, Ben",2.04,pinnacle,-0.022896078431372535,-0.007307999999999926,False,False
+7,"Griffin, Ben",24968,1.793,pinnacle,0.5327,0.0394,"Fitzpatrick, Matt",1.793,pinnacle,-0.02502448410485225,-0.00546890000000011,False,False
+10,"Straka, Sepp",17511,1.8,pinnacle,0.456,0.0408,"Berger, Daniel",1.8,pinnacle,-0.09955555555555556,-0.13840000000000008,False,False
+10,"Berger, Daniel",17606,2.03,pinnacle,0.544,0.0408,"Straka, Sepp",2.03,pinnacle,0.05138916256157633,0.14511999999999997,True,True
+11,"Burns, Sam",19483,1.925,pinnacle,0.3923,0.0382,"Morikawa, Collin",1.925,pinnacle,-0.12718051948051945,-0.2066225,False,False
+11,"Morikawa, Collin",22085,1.892,pinnacle,0.6077,0.0382,"Burns, Sam",1.892,pinnacle,0.07915877378435521,0.18796840000000004,True,True
+13,"English, Harris",14577,1.84,pinnacle,0.5006,0.0412,"Coody, Pierceson",1.84,pinnacle,-0.042878260869565143,-0.03769599999999984,False,False
+13,"Coody, Pierceson",28309,1.98,pinnacle,0.4994,0.0412,"English, Harris",1.98,pinnacle,-0.0056505050505050725,0.030012000000000094,False,False
+17,"Pendrith, Taylor",17780,1.909,pinnacle,0.4693,0.0378,"Poston, J.T.",1.909,pinnacle,-0.054534468308014616,-0.06630629999999993,False,False
+17,"Poston, J.T.",21554,1.909,pinnacle,0.5307,0.0378,"Pendrith, Taylor",1.909,pinnacle,0.006865531691985338,0.050906299999999904,True,False
+18,"Spieth, Jordan",14636,1.892,pinnacle,0.4627,0.035,"Theegala, Sahith",1.892,pinnacle,-0.06584122621564481,-0.08957160000000003,False,False
+18,"Theegala, Sahith",23014,1.925,pinnacle,0.5373,0.035,"Spieth, Jordan",1.925,pinnacle,0.01781948051948057,0.06930250000000004,True,False
+19,"Taylor, Nick",13126,1.84,pinnacle,0.5101,0.0398,"Bradley, Keegan",1.84,pinnacle,-0.03337826086956519,-0.02161599999999997,False,False
+19,"Bradley, Keegan",13872,1.98,pinnacle,0.4899,0.0398,"Taylor, Nick",1.98,pinnacle,-0.015150505050505081,0.009801999999999977,False,False
+22,"Mitchell, Keith",17365,1.934,pinnacle,0.5412,0.0364,"Bridgeman, Jacob",1.934,pinnacle,0.024136918304033084,0.08308079999999995,True,False
+22,"Bridgeman, Jacob",29433,1.884,pinnacle,0.4588,0.0364,"Mitchell, Keith",1.884,pinnacle,-0.0719855626326964,-0.09922080000000011,False,False
+25,"Kim, Michael",17543,1.769,pinnacle,0.4794,0.0404,"Hisatsune, Ryo",1.769,pinnacle,-0.08589112492933865,-0.11154140000000001,False,False
+25,"Hisatsune, Ryo",22760,2.07,pinnacle,0.5206,0.0404,"Kim, Michael",2.07,pinnacle,0.03750821256038639,0.11804199999999976,True,False
+32,"Harman, Brian",8825,2.17,pinnacle,0.4725,0.0402,"Yu, Kevin",2.17,pinnacle,0.011670506912442369,0.06552499999999983,True,False
+32,"Yu, Kevin",17881,1.699,pinnacle,0.5275,0.0402,"Harman, Brian",1.699,pinnacle,-0.06108151854031785,-0.06357750000000001,False,False
+35,"McIlroy, Rory",10091,1.689,pinnacle,0.4987,0.0446,"Fleetwood, Tommy",1.689,pinnacle,-0.09336631142687984,-0.11309570000000008,False,False
+35,"Fleetwood, Tommy",12294,2.19,pinnacle,0.5013,0.0446,"McIlroy, Rory",2.19,pinnacle,0.04467899543378989,0.14244699999999988,True,True
+36,"Schauffele, Xander",19895,1.819,pinnacle,0.5739,0.0406,"Young, Cameron",1.819,pinnacle,0.024147388675096138,0.08452409999999988,True,False
+36,"Young, Cameron",26651,2.01,pinnacle,0.4261,0.0406,"Schauffele, Xander",2.01,pinnacle,-0.07141243781094536,-0.10293900000000022,False,False
+37,"Henley, Russell",14578,1.909,pinnacle,0.5592,0.042,"Fitzpatrick, Matt",1.909,pinnacle,0.03536553169198542,0.10951280000000002,True,False
+37,"Fitzpatrick, Matt",17646,1.909,pinnacle,0.4408,0.042,"Henley, Russell",1.909,pinnacle,-0.08303446830801459,-0.11651279999999986,False,False
+38,"Kim, Si Woo",14609,1.704,pinnacle,0.5822,0.04,"Schauffele, Xander",1.704,pinnacle,-0.004654460093896695,0.032068800000000064,False,False
+38,"Schauffele, Xander",19895,2.17,pinnacle,0.4178,0.04,"Kim, Si Woo",2.17,pinnacle,-0.0430294930875576,-0.05337400000000003,False,False
+39,"Kim, Si Woo",14609,1.675,pinnacle,0.6282,0.0432,"Griffin, Ben",1.675,pinnacle,0.031185074626865705,0.09543499999999999,True,False
+39,"Griffin, Ben",24968,2.21,pinnacle,0.3718,0.0432,"Kim, Si Woo",2.21,pinnacle,-0.08068868778280541,-0.13512199999999996,False,False
+40,"Knapp, Jake",19396,2.02,pinnacle,0.4505,0.0374,"Gotterup, Chris",2.02,pinnacle,-0.044549504950495034,-0.05258999999999997,False,False
+40,"Gotterup, Chris",27774,1.806,pinnacle,0.5495,0.0374,"Knapp, Jake",1.806,pinnacle,-0.004209856035437443,0.029797000000000018,False,False
+41,"Young, Cameron",26651,2.0,betmgm,0.4572,0.04,"Gotterup, Chris",2.0,betmgm,-0.042800000000000005,-0.04559999999999992,False,False
+41,"Gotterup, Chris",27774,1.9,pinnacle,0.5428,0.04,"Young, Cameron",1.9,pinnacle,0.016484210526315768,0.07131999999999983,True,False
+42,"Stevens, Sam",25569,1.833,pinnacle,0.5054,0.0372,"McCarty, Matt",1.833,pinnacle,-0.04015373704309877,-0.036401800000000095,False,False
+42,"McCarty, Matt",28635,1.99,pinnacle,0.4946,0.0372,"Stevens, Sam",1.99,pinnacle,-0.007912562814070323,0.021453999999999918,False,False
+43,"Rai, Aaron",18554,2.09,pinnacle,0.5401,0.0438,"McGreevy, Max",2.09,pinnacle,0.06163110047846887,0.17260899999999996,True,True
+43,"McGreevy, Max",23505,1.757,pinnacle,0.4599,0.0438,"Rai, Aaron",1.757,pinnacle,-0.10925196357427436,-0.1481557000000001,False,False
+44,"Smalley, Alex",18474,2.0,pinnacle,0.374,0.034,"Hoey, Rico",2.0,pinnacle,-0.126,-0.21799999999999997,False,False
+44,"Hoey, Rico",23504,1.826,pinnacle,0.626,0.034,"Smalley, Alex",1.826,pinnacle,0.078354874041621,0.17707600000000012,True,True
+45,"Jaeger, Stephan",16394,2.08,pinnacle,0.4946,0.0368,"Higgo, Garrick",2.08,pinnacle,0.013830769230769258,0.0655679999999999,True,False
+45,"Higgo, Garrick",24342,1.763,pinnacle,0.5054,0.0368,"Jaeger, Stephan",1.763,pinnacle,-0.061814974475326245,-0.07217980000000013,False,False
+46,"Noren, Alex",10419,2.05,pinnacle,0.4068,0.0384,"Conners, Corey",2.05,pinnacle,-0.08100487804878054,-0.12766000000000005,False,False
+46,"Conners, Corey",17576,1.787,pinnacle,0.5932,0.0384,"Noren, Alex",1.787,pinnacle,0.03360290990486847,0.09844839999999988,True,False
+47,"McCarthy, Denny",19870,1.763,pinnacle,0.4631,0.0354,"Penge, Marco",1.763,pinnacle,-0.1041149744753262,-0.14815469999999997,False,False
+47,"Penge, Marco",22465,2.08,pinnacle,0.5369,0.0354,"McCarthy, Denny",2.08,pinnacle,0.05613076923076932,0.15215200000000006,True,True
+48,"Cantlay, Patrick",15466,1.847,pinnacle,0.4804,0.0428,"Spaun, J.J.",1.847,pinnacle,-0.06101851651326479,-0.06990120000000005,False,False
+48,"Spaun, J.J.",17536,1.97,pinnacle,0.5196,0.0428,"Cantlay, Patrick",1.97,pinnacle,0.01198578680203044,0.06641199999999986,True,False
+49,"Day, Jason",9771,2.04,pinnacle,0.3997,0.0418,"Cantlay, Patrick",2.04,pinnacle,-0.09049607843137253,-0.1428120000000001,False,False
+49,"Cantlay, Patrick",15466,1.793,pinnacle,0.6003,0.0418,"Day, Jason",1.793,pinnacle,0.04257551589514774,0.11813789999999985,True,True
+50,"Day, Jason",9771,1.934,pinnacle,0.481,0.036,"Burns, Sam",1.934,pinnacle,-0.03606308169596695,-0.03374600000000011,False,False
+50,"Burns, Sam",19483,1.884,pinnacle,0.519,0.036,"Day, Jason",1.884,pinnacle,-0.011785562632696367,0.013795999999999975,False,False
+51,"Kitayama, Kurt",21891,2.0,pinnacle,0.4519,0.0394,"Gerard, Ryan",2.0,pinnacle,-0.048099999999999976,-0.05680000000000002,False,False
+51,"Gerard, Ryan",29767,1.826,pinnacle,0.5481,0.0394,"Kitayama, Kurt",1.826,pinnacle,0.00045487404162103395,0.04023060000000006,True,False
+52,"Hovland, Viktor",18841,1.84,pinnacle,0.5649,0.0334,"Thorbjornsen, Michael",1.84,pinnacle,0.02142173913043477,0.07281599999999994,True,False
+52,"Thorbjornsen, Michael",26649,1.98,pinnacle,0.4351,0.0334,"Hovland, Viktor",1.98,pinnacle,-0.0699505050505051,-0.10510199999999997,False,False
+53,"Rose, Justin",6093,1.793,pinnacle,0.5685,0.043,"MacIntyre, Robert",1.793,pinnacle,0.010775515895147803,0.062320499999999945,True,False
+53,"MacIntyre, Robert",23323,2.04,pinnacle,0.4315,0.043,"Rose, Justin",2.04,pinnacle,-0.058696078431372534,-0.07673999999999997,False,False
+54,"Matsuyama, Hideki",13562,1.854,pinnacle,0.5457,0.0434,"McNealy, Maverick",1.854,pinnacle,0.006325674217907196,0.05512779999999995,True,False
+54,"McNealy, Maverick",18634,1.97,pinnacle,0.4543,0.0434,"Matsuyama, Hideki",1.97,pinnacle,-0.05331421319796953,-0.0616290000000001,False,False
+55,"Fowler, Rickie",12965,1.813,pinnacle,0.5605,0.0378,"Lee, Min Woo",1.813,pinnacle,0.008928019856591307,0.05398649999999999,True,False
+55,"Lee, Min Woo",16841,2.02,pinnacle,0.4395,0.0378,"Fowler, Rickie",2.02,pinnacle,-0.05554950495049504,-0.07440999999999992,False,False
+56,"Morikawa, Collin",22085,1.806,pinnacle,0.6136,0.0392,"Aberg, Ludvig",1.806,pinnacle,0.0598901439645626,0.1473616000000001,True,True
+56,"Aberg, Ludvig",23950,2.02,pinnacle,0.3864,0.0392,"Morikawa, Collin",2.02,pinnacle,-0.10864950495049502,-0.18027199999999988,False,False
+57,"Matsuyama, Hideki",13562,1.877,pinnacle,0.4735,0.0426,"Hovland, Viktor",1.877,pinnacle,-0.05926505061267978,-0.0686405,False,False
+57,"Hovland, Viktor",18841,1.943,pinnacle,0.5265,0.0426,"Matsuyama, Hideki",1.943,pinnacle,0.011831960885228976,0.06558949999999997,True,False
+58,"Lowry, Shane",13900,1.909,pinnacle,0.5694,0.04,"Bhatia, Akshay",1.909,pinnacle,0.045565531691985406,0.12698460000000006,True,True
+58,"Bhatia, Akshay",26096,1.909,pinnacle,0.4306,0.04,"Lowry, Shane",1.909,pinnacle,-0.09323446830801463,-0.13798459999999996,False,False
+59,"English, Harris",14577,1.869,pinnacle,0.452,0.042,"Spaun, J.J.",1.869,pinnacle,-0.08304547886570363,-0.11321199999999998,False,False
+59,"Spaun, J.J.",17536,1.952,pinnacle,0.548,0.042,"English, Harris",1.952,pinnacle,0.03570491803278697,0.11169600000000007,True,False
+60,"Kirk, Chris",12423,2.02,pinnacle,0.5198,0.034,"Novak, Andrew",2.02,pinnacle,0.024750495049504995,0.08399600000000007,True,False
+60,"Novak, Andrew",23475,1.806,pinnacle,0.4802,0.034,"Kirk, Chris",1.806,pinnacle,-0.07350985603543742,-0.09875879999999998,False,False
+61,"Clark, Wyndham",23604,2.04,pinnacle,0.5156,0.0332,"Hall, Harry",2.04,pinnacle,0.02540392156862742,0.08502399999999988,True,False
+61,"Hall, Harry",27194,1.793,pinnacle,0.4844,0.0332,"Clark, Wyndham",1.793,pinnacle,-0.0733244841048522,-0.0982708000000001,False,False
+62,"Finau, Tony",11676,2.12,pinnacle,0.4403,0.0334,"Fox, Ryan",2.12,pinnacle,-0.031398113207547096,-0.033163999999999916,False,False
+62,"Fox, Ryan",11889,1.735,pinnacle,0.5597,0.0334,"Finau, Tony",1.735,pinnacle,-0.016668876080691675,0.00447949999999997,False,False
+63,"Rodgers, Patrick",16283,1.847,pinnacle,0.5483,0.0346,"Greyserman, Max",1.847,pinnacle,0.006881483486735229,0.04731010000000002,True,False
+63,"Greyserman, Max",23465,1.97,pinnacle,0.4517,0.0346,"Rodgers, Patrick",1.97,pinnacle,-0.05591421319796952,-0.07555100000000009,False,False
+77,"Fleetwood, Tommy",12294,2.0,betmgm,0.381,0.0448,"Kim, Si Woo",2.0,betmgm,-0.119,-0.19320000000000004,False,False
+77,"Kim, Si Woo",14609,1.8,betmgm,0.619,0.0448,"Fleetwood, Tommy",1.8,betmgm,0.06344444444444441,0.15900000000000003,True,True
+78,"Henley, Russell",14578,1.85,betmgm,0.4819,0.0398,"Hovland, Viktor",1.85,betmgm,-0.058640540540540464,-0.06868499999999994,False,False
+78,"Hovland, Viktor",18841,1.95,betmgm,0.5181,0.0398,"Henley, Russell",1.95,betmgm,0.005279487179487119,0.050095,True,False
+79,"Rose, Justin",6093,1.95,betmgm,0.4889,0.041,"Matsuyama, Hideki",1.95,betmgm,-0.023920512820512885,-0.005645000000000011,False,False
+79,"Matsuyama, Hideki",13562,1.85,betmgm,0.5111,0.041,"Rose, Justin",1.85,betmgm,-0.02944054054054046,-0.01346499999999995,False,False
+80,"Knapp, Jake",19396,2.0,betmgm,0.4116,0.0384,"Schauffele, Xander",2.0,betmgm,-0.08839999999999998,-0.13840000000000002,False,False
+80,"Schauffele, Xander",19895,1.8,betmgm,0.5884,0.0384,"Knapp, Jake",1.8,betmgm,0.032844444444444454,0.09752000000000005,True,False
+81,"Lowry, Shane",13900,1.9,betmgm,0.5078,0.0436,"Berger, Daniel",1.9,betmgm,-0.018515789473684152,0.008419999999999983,False,False
+81,"Berger, Daniel",17606,1.9,betmgm,0.4922,0.0436,"Lowry, Shane",1.9,betmgm,-0.034115789473684155,-0.021220000000000072,False,False
+82,"Griffin, Ben",24968,1.73,betmgm,0.5278,0.0432,"Coody, Pierceson",1.73,betmgm,-0.05023468208092485,-0.04370599999999991,False,False
+82,"Coody, Pierceson",28309,2.1,betmgm,0.4722,0.0432,"Griffin, Ben",2.1,betmgm,-0.003990476190476155,0.03482000000000007,False,False
+83,"Fowler, Rickie",12965,1.95,betmgm,0.5027,0.0338,"English, Harris",1.95,betmgm,-0.01012051282051285,0.01406500000000005,False,False
+83,"English, Harris",14577,1.85,betmgm,0.4973,0.0338,"Fowler, Rickie",1.85,betmgm,-0.04324054054054044,-0.046194999999999875,False,False
+84,"Straka, Sepp",17511,1.9,betmgm,0.5421,0.043,"Burns, Sam",1.9,betmgm,0.015784210526315845,0.07299,True,False
+84,"Burns, Sam",19483,1.9,betmgm,0.4579,0.043,"Straka, Sepp",1.9,betmgm,-0.06841578947368421,-0.08699000000000012,False,False
