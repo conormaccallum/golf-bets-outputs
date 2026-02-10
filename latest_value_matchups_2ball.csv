@@ -1,1 +1,21 @@
 group_id,player_name,dg_id,odds,book,p_model,p_push,opponents,market_odds_best_dec,market_book_best,edge_prob,ev_per_unit,value_flag,bet_flag
+0,"McIlroy, Rory",10091,3.5,betmgm,0.2874,0.0408,"Scheffler, Scottie",3.5,betmgm,0.0016857142857142904,0.046699999999999964,True,False
+0,"Scheffler, Scottie",18417,1.3,betmgm,0.7126,0.0408,"McIlroy, Rory",1.3,betmgm,-0.05663076923076915,-0.03281999999999996,False,False
+50,"Fleetwood, Tommy",12294,2.0,betmgm,0.3641,0.0382,"Kim, Si Woo",2.0,betmgm,-0.13590000000000002,-0.23360000000000003,False,False
+50,"Kim, Si Woo",14609,1.8,betmgm,0.6359,0.0382,"Fleetwood, Tommy",1.8,betmgm,0.08034444444444444,0.1828200000000001,True,True
+51,"Henley, Russell",14578,1.85,betmgm,0.4746,0.046,"Hovland, Viktor",1.85,betmgm,-0.06594054054054044,-0.07598999999999995,False,False
+51,"Hovland, Viktor",18841,1.95,betmgm,0.5254,0.046,"Henley, Russell",1.95,betmgm,0.012579487179487092,0.07052999999999993,True,False
+52,"Rose, Justin",6093,1.95,betmgm,0.4871,0.0346,"Matsuyama, Hideki",1.95,betmgm,-0.02572051282051291,-0.015555000000000041,False,False
+52,"Matsuyama, Hideki",13562,1.85,betmgm,0.5129,0.0346,"Rose, Justin",1.85,betmgm,-0.027640540540540437,-0.01653499999999991,False,False
+53,"Knapp, Jake",19396,2.0,betmgm,0.4173,0.0434,"Schauffele, Xander",2.0,betmgm,-0.0827,-0.122,False,False
+53,"Schauffele, Xander",19895,1.8,betmgm,0.5827,0.0434,"Knapp, Jake",1.8,betmgm,0.027144444444444416,0.09226000000000001,True,False
+54,"Young, Cameron",26651,2.0,betmgm,0.4538,0.0376,"Gotterup, Chris",2.0,betmgm,-0.04620000000000002,-0.05480000000000007,False,False
+54,"Gotterup, Chris",27774,1.8,betmgm,0.5462,0.0376,"Young, Cameron",1.8,betmgm,-0.009355555555555561,0.020760000000000056,False,False
+55,"Lowry, Shane",13900,1.9,betmgm,0.4947,0.0402,"Berger, Daniel",1.9,betmgm,-0.03161578947368421,-0.01987000000000011,False,False
+55,"Berger, Daniel",17606,1.9,betmgm,0.5053,0.0402,"Lowry, Shane",1.9,betmgm,-0.02101578947368421,0.00026999999999993696,False,False
+56,"Griffin, Ben",24968,1.73,betmgm,0.537,0.042,"Coody, Pierceson",1.73,betmgm,-0.04103468208092487,-0.02898999999999996,False,False
+56,"Coody, Pierceson",28309,2.1,betmgm,0.463,0.042,"Griffin, Ben",2.1,betmgm,-0.013190476190476141,0.014300000000000146,False,False
+57,"Fowler, Rickie",12965,1.95,betmgm,0.5161,0.0422,"English, Harris",1.95,betmgm,0.003279487179487117,0.048595,True,False
+57,"English, Harris",14577,1.85,betmgm,0.4839,0.0422,"Fowler, Rickie",1.85,betmgm,-0.05664054054054046,-0.06258499999999995,False,False
+58,"Straka, Sepp",17511,1.9,betmgm,0.5513,0.039,"Burns, Sam",1.9,betmgm,0.02498421052631583,0.08646999999999994,True,False
+58,"Burns, Sam",19483,1.9,betmgm,0.4487,0.039,"Straka, Sepp",1.9,betmgm,-0.0776157894736842,-0.10847000000000001,False,False
