@@ -1,0 +1,13 @@
+group_id,player_name,dg_id,odds,book,p_model,p_push,opponents,market_odds_best_dec,market_book_best,edge_prob,ev_per_unit,value_flag,bet_flag
+3,"Molinari, Francesco",7655,2.4,bet365,0.5730666666666668,,"Morrison, James, Kobori, Kazuma",2.4,bet365,0.15640000000000015,0.37536000000000036,True,True
+3,"Morrison, James",11061,3.8,draftkings,0.1378666666666667,,"Molinari, Francesco, Kobori, Kazuma",3.8,draftkings,-0.1252912280701754,-0.47610666666666657,False,False
+3,"Kobori, Kazuma",24369,2.6,draftkings,0.2890666666666666,,"Molinari, Francesco, Morrison, James",2.6,draftkings,-0.095548717948718,-0.24842666666666685,False,False
+5,"Senior, Jack",15115,3.5,bet365,0.2215666666666667,,"Coussaud, Ugo, Hill, Calum",3.5,bet365,-0.06414761904761901,-0.2245166666666666,False,False
+5,"Coussaud, Ugo",20727,2.62,draftkings,0.4396666666666666,,"Senior, Jack, Hill, Calum",2.62,draftkings,0.057987277353689526,0.15192666666666654,True,True
+5,"Hill, Calum",25131,2.5,unibet,0.33876666666666666,,"Senior, Jack, Coussaud, Ugo",2.5,unibet,-0.06123333333333336,-0.15308333333333335,False,False
+6,"Forrest, Grant",16475,2.8,bet365,0.2945333333333333,,"Cantero Gutierrez, Ivan, Bradbury, Dan",2.8,bet365,-0.06260952380952384,-0.17530666666666672,False,False
+6,"Cantero Gutierrez, Ivan",19635,3.55,draftkings,0.16223333333333334,,"Forrest, Grant, Bradbury, Dan",3.55,draftkings,-0.1194568075117371,-0.4240716666666667,False,False
+6,"Bradbury, Dan",29971,2.26,draftkings,0.5432333333333333,,"Forrest, Grant, Cantero Gutierrez, Ivan",2.26,draftkings,0.10075545722713863,0.22770733333333326,True,True
+9,"Law, David",14784,3.3,unibet,0.22460000000000008,,"Ferguson, Ewen, Schott, Freddy",3.3,unibet,-0.07843030303030296,-0.2588199999999997,False,False
+9,"Ferguson, Ewen",21646,2.38,betmgm,0.4845,,"Law, David, Schott, Freddy",2.38,betmgm,0.06433193277310922,0.15310999999999986,True,True
+9,"Schott, Freddy",27588,3.0,draftkings,0.2909,,"Law, David, Ferguson, Ewen",3.0,draftkings,-0.04243333333333332,-0.12730000000000008,False,False
