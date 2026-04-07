@@ -1,6 +1,7 @@
 {
-  "eventId": "5",
-  "eventName": "AT&T Pebble Beach Pro-Am",
+  "eventId": "14",
+  "eventName": "Masters Tournament",
   "eventYear": 2026,
+  "tour": "pga",
   "refreshLockDay": "THURSDAY"
 }
