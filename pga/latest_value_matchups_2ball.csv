@@ -1,35 +1,43 @@
 group_id,player_name,dg_id,odds,book,p_model,p_push,opponents,market_odds_best_dec,market_book_best,edge_prob,ev_per_unit,value_flag,bet_flag
-0,"Fitzpatrick, Matt",17646,1.90909,bet365,0.5538,0.0508,"Burns, Sam",1.90909,bet365,0.029990226757250826,0.10805404199999996,True,True
-0,"Burns, Sam",19483,1.90909,bet365,0.4462,0.0508,"Fitzpatrick, Matt",1.90909,bet365,-0.07760977324274915,-0.09736404200000015,False,False
-2,"Fleetwood, Tommy",12294,1.90909,bet365,0.4476,0.0436,"Schauffele, Xander",1.90909,bet365,-0.07620977324274913,-0.10189131600000007,False,False
-2,"Schauffele, Xander",19895,1.90909,bet365,0.5524,0.0436,"Fleetwood, Tommy",1.90909,bet365,0.02859022675725087,0.09818131599999991,True,True
-3,"Fleetwood, Tommy",12294,1.9,betmgm,0.4509,0.0502,"Schauffele, Xander",1.9,betmgm,-0.07541578947368416,-0.0930899999999999,False,False
-3,"Schauffele, Xander",19895,1.9,betmgm,0.5491,0.0502,"Fleetwood, Tommy",1.9,betmgm,0.02278421052631585,0.09349000000000002,True,True
-4,"Bradley, Keegan",13872,1.83333,bet365,0.4756,0.0364,"Gotterup, Chris",1.83333,bet365,-0.06985553719188586,-0.091668252,False,False
-4,"Gotterup, Chris",27774,2.0,bet365,0.5244,0.0364,"Bradley, Keegan",2.0,bet365,0.024399999999999977,0.08519999999999994,True,True
-6,"Spaun, J.J.",17536,1.95238,bet365,0.6246,0.0528,"Griffin, Ben",1.95238,bet365,0.11240462819737962,0.27225654800000015,True,True
-6,"Griffin, Ben",24968,2.0,bet365,0.3754,0.0528,"Spaun, J.J.",2.0,bet365,-0.12459999999999999,-0.19640000000000007,False,False
-8,"Henley, Russell",14578,2.0,bet365,0.4199,0.0482,"Kim, Si Woo",2.0,bet365,-0.0801,-0.11200000000000004,False,False
-8,"Kim, Si Woo",14609,1.95238,bet365,0.5801,0.0482,"Henley, Russell",1.95238,bet365,0.06790462819737952,0.18077563799999996,True,True
-10,"Kitayama, Kurt",21891,1.95238,bet365,0.6582,0.0444,"MacIntyre, Robert",1.95238,bet365,0.14600462819737958,0.32945651600000003,True,True
-10,"MacIntyre, Robert",23323,2.0,bet365,0.3418,0.0444,"Kitayama, Kurt",2.0,bet365,-0.1582,-0.272,False,False
-12,"Cantlay, Patrick",15466,1.6993,bet365,0.6307,0.051,"McNealy, Maverick",1.6993,bet365,0.04222239157300067,0.12274851000000009,True,True
-12,"McNealy, Maverick",18634,2.2,bet365,0.3693,0.051,"Cantlay, Patrick",2.2,bet365,-0.08524545454545451,-0.13653999999999988,False,False
-14,"Thomas, Justin",14139,1.83333,bet365,0.4601,0.0446,"Morikawa, Collin",1.83333,bet365,-0.08535553719188588,-0.11188486700000011,False,False
-14,"Morikawa, Collin",22085,2.1,bet365,0.5399,0.0446,"Thomas, Justin",2.1,bet365,0.06370952380952388,0.17839000000000016,True,True
-16,"Scott, Adam",6430,2.1,bet365,0.6005,0.0478,"Harman, Brian",2.1,bet365,0.12430952380952387,0.3088500000000001,True,True
-16,"Harman, Brian",8825,1.74627,bet365,0.3995,0.0478,"Scott, Adam",1.74627,bet365,-0.17314913215024025,-0.25456513500000005,False,False
-18,"Aberg, Ludvig",23950,1.74627,bet365,0.5363,0.0486,"Young, Cameron",1.74627,bet365,-0.03634913215024027,-0.014875399000000011,False,False
-18,"Young, Cameron",26651,2.1,bet365,0.4637,0.0486,"Aberg, Ludvig",2.1,bet365,-0.012490476190476163,0.02237,True,True
-88,"Burns, Sam",19483,1.9,betmgm,0.465,0.0488,"Young, Cameron",1.9,betmgm,-0.06131578947368416,-0.06769999999999993,False,False
-88,"Young, Cameron",26651,1.9,betmgm,0.535,0.0488,"Burns, Sam",1.9,betmgm,0.00868421052631585,0.06530000000000002,True,True
-89,"Fitzpatrick, Matt",17646,2.0,betmgm,0.4755,0.049,"Aberg, Ludvig",2.0,betmgm,-0.024500000000000022,0.0,False,True
-89,"Aberg, Ludvig",23950,1.8,betmgm,0.5245,0.049,"Fitzpatrick, Matt",1.8,betmgm,-0.031055555555555614,-0.006900000000000073,False,False
-90,"Thomas, Justin",14139,1.85,betmgm,0.5347,0.0462,"Clark, Wyndham",1.85,betmgm,-0.005840540540540506,0.035394999999999954,True,True
-90,"Clark, Wyndham",23604,1.95,betmgm,0.4653,0.0462,"Thomas, Justin",1.95,betmgm,-0.047520512820512895,-0.04646499999999998,False,False
-91,"Cantlay, Patrick",15466,1.75,betmgm,0.5073,0.051,"Morikawa, Collin",1.75,betmgm,-0.06412857142857142,-0.06122500000000003,False,False
-91,"Morikawa, Collin",22085,2.05,betmgm,0.4927,0.051,"Cantlay, Patrick",2.05,betmgm,0.004895121951219494,0.061035000000000006,True,True
-92,"Harman, Brian",8825,1.8,betmgm,0.4335,0.0422,"Lee, Min Woo",1.8,betmgm,-0.12205555555555558,-0.1775,False,False
-92,"Lee, Min Woo",16841,2.0,betmgm,0.5665,0.0422,"Harman, Brian",2.0,betmgm,0.0665,0.17520000000000002,True,True
-93,"Kim, Si Woo",14609,1.73,betmgm,0.5418,0.048,"Rai, Aaron",1.73,betmgm,-0.03623468208092495,-0.014686000000000088,False,False
-93,"Rai, Aaron",18554,2.1,betmgm,0.4582,0.048,"Kim, Si Woo",2.1,betmgm,-0.017990476190476168,0.010219999999999951,True,True
+0,"Thorbjornsen, Michael",26649,1.85,betmgm,0.5157,0.0294,"Coody, Pierceson",1.85,betmgm,-0.024840540540540412,-0.016554999999999875,False,False
+0,"Coody, Pierceson",28309,1.95,betmgm,0.4843,0.0294,"Thorbjornsen, Michael",1.95,betmgm,-0.028520512820512878,-0.0262150000000001,False,False
+6,"Cole, Eric",21756,2.1,unibet,0.4461,0.0314,"Bridgeman, Jacob",2.1,unibet,-0.030090476190476168,-0.03179000000000004,False,False
+6,"Bridgeman, Jacob",29433,1.6993,unibet,0.5539,0.0314,"Cole, Eric",1.6993,unibet,-0.03457760842699942,-0.02735773000000008,False,False
+8,"Wallace, Matt",20706,1.83333,unibet,0.5273,0.0282,"Thompson, Davis",1.83333,unibet,-0.018155537191885895,-0.0050850910000000416,False,False
+8,"Thompson, Davis",27364,1.90909,unibet,0.4727,0.0282,"Wallace, Matt",1.90909,unibet,-0.051109773242749124,-0.06937315700000002,False,False
+11,"Griffin, Ben",24968,1.8,betmgm,0.4736,0.0268,"Gotterup, Chris",1.8,betmgm,-0.08195555555555556,-0.12071999999999994,False,False
+11,"Gotterup, Chris",27774,2.0,betmgm,0.5264,0.0268,"Griffin, Ben",2.0,betmgm,0.02639999999999998,0.07959999999999995,True,True
+31,"Bradley, Keegan",13872,1.95,betmgm,0.4873,0.0294,"Mitchell, Keith",1.95,betmgm,-0.025520512820512875,-0.020364999999999966,False,False
+31,"Mitchell, Keith",17365,1.85,betmgm,0.5127,0.0294,"Bradley, Keegan",1.85,betmgm,-0.027840540540540415,-0.022104999999999875,False,False
+61,"Bezuidenhout, Christiaan",18103,2.0,unibet,0.5156,0.0348,"McCarthy, Denny",2.0,unibet,0.015599999999999947,0.06599999999999989,True,True
+61,"McCarthy, Denny",19870,1.74627,unibet,0.4844,0.0348,"Bezuidenhout, Christiaan",1.74627,unibet,-0.08824913215024027,-0.1193068120000001,False,False
+62,"Im, Sungjae",17488,1.9,betmgm,0.3937,0.0286,"Wallace, Matt",1.9,betmgm,-0.1326157894736842,-0.22337000000000012,False,False
+62,"Wallace, Matt",20706,1.9,betmgm,0.6063,0.0286,"Im, Sungjae",1.9,betmgm,0.07998421052631577,0.18056999999999984,True,True
+67,"Bradley, Keegan",13872,2.1,unibet,0.4705,0.0366,"Gotterup, Chris",2.1,unibet,-0.00569047619047619,0.024650000000000005,True,True
+67,"Gotterup, Chris",27774,1.6993,unibet,0.5295,0.0366,"Bradley, Keegan",1.6993,unibet,-0.058977608426999395,-0.06362065,False,False
+68,"Mitchell, Keith",17365,1.66667,unibet,0.5467,0.0322,"Novak, Andrew",1.66667,unibet,-0.05329880000239995,-0.05663151100000002,False,False
+68,"Novak, Andrew",23475,2.15,unibet,0.4533,0.0322,"Mitchell, Keith",2.15,unibet,-0.011816279069767455,0.0067949999999999955,True,True
+69,"Spieth, Jordan",14636,1.95,betmgm,0.5095,0.0366,"Poston, J.T.",1.95,betmgm,-0.003320512820512933,0.030124999999999902,True,True
+69,"Poston, J.T.",21554,1.87719,unibet,0.4905,0.0366,"Spieth, Jordan",1.87719,unibet,-0.04221112673730415,-0.0426383050000001,False,False
+70,"Fowler, Rickie",12965,1.90909,unibet,0.4493,0.0282,"Kim, Tom",1.90909,unibet,-0.07450977324274916,-0.11404586300000003,False,False
+70,"Kim, Tom",24766,1.83333,unibet,0.5507,0.0282,"Fowler, Rickie",1.83333,unibet,0.005244462808114081,0.03781483099999988,True,True
+71,"Im, Sungjae",17488,1.9434,unibet,0.3942,0.0324,"Thorbjornsen, Michael",1.9434,unibet,-0.12036210764639288,-0.20151172,False,False
+71,"Thorbjornsen, Michael",26649,1.8,unibet,0.6058,0.0324,"Im, Sungjae",1.8,unibet,0.050244444444444425,0.12284,True,True
+72,"Finau, Tony",11676,1.9434,unibet,0.4797,0.0322,"Meissner, Mac",1.9434,unibet,-0.03486210764639286,-0.03555101999999993,False,False
+72,"Meissner, Mac",28159,1.8,unibet,0.5203,0.0322,"Finau, Tony",1.8,unibet,-0.035255555555555596,-0.03126000000000001,False,False
+73,"Coody, Pierceson",28309,1.83333,unibet,0.4882,0.0292,"Brennan, Michael",1.83333,unibet,-0.057255537191885864,-0.07576829400000007,False,False
+73,"Brennan, Michael",29197,1.90909,unibet,0.5118,0.0292,"Coody, Pierceson",1.90909,unibet,-0.0120097732427491,0.006272262000000028,True,True
+74,"Hisatsune, Ryo",22760,1.8,unibet,0.5226,0.0304,"Ghim, Doug",1.8,unibet,-0.03295555555555563,-0.028920000000000057,False,False
+74,"Ghim, Doug",24550,1.9434,unibet,0.4774,0.0304,"Hisatsune, Ryo",1.9434,unibet,-0.03716210764639288,-0.04182083999999997,False,False
+75,"Kim, Michael",17543,1.83333,unibet,0.5193,0.0294,"Greyserman, Max",1.83333,unibet,-0.026155537191885903,-0.01855173100000007,False,False
+75,"Greyserman, Max",23465,1.90909,unibet,0.4807,0.0294,"Kim, Michael",1.90909,unibet,-0.043109773242749116,-0.05290043700000002,False,False
+76,"Berger, Daniel",17606,1.83333,unibet,0.5106,0.0292,"Keefer, Johnny",1.83333,unibet,-0.03485553719188583,-0.034701701999999945,False,False
+76,"Keefer, Johnny",32457,1.90909,unibet,0.4894,0.0292,"Berger, Daniel",1.90909,unibet,-0.03440977324274913,-0.036491353999999976,False,False
+77,"Potgieter, Aldrich",27900,1.90909,unibet,0.4937,0.033,"Suber, Jackson",1.90909,unibet,-0.030109773242749105,-0.024482266999999946,False,False
+77,"Suber, Jackson",29279,1.83333,unibet,0.5063,0.033,"Potgieter, Aldrich",1.83333,unibet,-0.039155537191885914,-0.038785021000000086,False,False
+92,"Kim, Tom",24766,1.85,betmgm,0.5207,0.0338,"Bridgeman, Jacob",1.85,betmgm,-0.019840540540540408,-0.00290499999999988,False,False
+92,"Bridgeman, Jacob",29433,1.95,betmgm,0.4793,0.0338,"Kim, Tom",1.95,betmgm,-0.03352051282051288,-0.031564999999999954,False,False
+93,"Ghim, Doug",24550,1.85,betmgm,0.5335,0.0318,"Brennan, Michael",1.85,betmgm,-0.007040540540540485,0.018774999999999986,True,True
+93,"Brennan, Michael",29197,1.95,betmgm,0.4665,0.0318,"Ghim, Doug",1.95,betmgm,-0.04632051282051286,-0.05852499999999994,False,False
+94,"Kim, Michael",17543,1.9,betmgm,0.492,0.0336,"Hoey, Rico",1.9,betmgm,-0.03431578947368419,-0.03160000000000002,False,False
+94,"Hoey, Rico",23504,1.9,betmgm,0.508,0.0336,"Kim, Michael",1.9,betmgm,-0.018315789473684174,-0.0012000000000000344,False,False
