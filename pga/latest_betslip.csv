@@ -1,3 +1,3 @@
 placed_at_utc,bet_type,strategy_name,strategy_tier,player_name,dg_id,market_book_best,market_odds_best_dec,stake_units,p_model,edge_prob,ev_per_unit,kelly_full,kelly_frac,result_win_flag,return_units
-2026-07-28 05:36:11,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Griffin, Ben",24968,skybet,4.5,7.3,0.267822138527183,0.0455999163049608,0.2051996233723235,0.05862846382066384,0.01465711595516596,,
-2026-07-28 05:36:11,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Meissner, Mac",28159,bet365,8.5,4.4,0.1485018944495518,0.0308548356260223,0.2622661028211903,0.03496881370949204,0.00874220342737301,,
+2026-07-28 05:38:34,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Griffin, Ben",24968,skybet,4.5,7.3,0.267822138527183,0.0455999163049608,0.2051996233723235,0.05862846382066384,0.01465711595516596,,
+2026-07-28 05:38:34,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Meissner, Mac",28159,bet365,8.5,4.4,0.1485018944495518,0.0308548356260223,0.2622661028211903,0.03496881370949204,0.00874220342737301,,
