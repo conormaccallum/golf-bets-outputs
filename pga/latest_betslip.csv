@@ -1,3 +1,4 @@
 placed_at_utc,bet_type,strategy_name,strategy_tier,player_name,dg_id,market_book_best,market_odds_best_dec,stake_units,p_model,edge_prob,ev_per_unit,kelly_full,kelly_frac,result_win_flag,return_units
-2026-07-28 05:38:34,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Griffin, Ben",24968,skybet,4.5,7.3,0.267822138527183,0.0455999163049608,0.2051996233723235,0.05862846382066384,0.01465711595516596,,
-2026-07-28 05:38:34,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Meissner, Mac",28159,bet365,8.5,4.4,0.1485018944495518,0.0308548356260223,0.2622661028211903,0.03496881370949204,0.00874220342737301,,
+2026-07-29 18:28:55,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Griffin, Ben",24968,bet365,4.6,8.7,0.2720066135141737,0.0546153091663476,0.251230422165199,0.06978622837922198,0.017446557094805495,,
+2026-07-29 18:28:55,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Meissner, Mac",28159,bet365,8.75,6.0,0.1568072024767114,0.0425214881909971,0.3720630216712247,0.048008131828545145,0.012002032957136286,,
+2026-07-29 18:28:55,Top 20,Top 20: DG anchor + OTT overlay,Tier 3 - experimental,"Neergaard-Petersen, Rasmus",23841,skybet,5.0,7.7,0.2518946384440103,0.0518946384440102,0.2594731922200514,0.061347717750950596,0.015336929437737649,,
