@@ -1,14 +1,14 @@
 group_id,player_name,dg_id,odds,book,p_model,p_push,opponents,market_odds_best_dec,market_book_best,edge_prob,ev_per_unit,value_flag,bet_flag
 0,"Olesen, Thorbjorn",13412,2.1,bet365,0.4178,0.0324,"Brown, Dan",2.1,bet365,-0.05839047619047616,-0.09022000000000002,False,False
 0,"Brown, Dan",20766,1.75,bet365,0.5822,0.0324,"Olesen, Thorbjorn",1.75,bet365,0.010771428571428654,0.05125000000000007,True,True
-1,"Du Plessis, Hennie",19421,2.1,bet365,0.4802,0.032,"Ferguson, Ewen",2.1,bet365,0.004009523809523852,0.04042000000000001,True,True
-1,"Ferguson, Ewen",21646,1.75,bet365,0.5198,0.032,"Du Plessis, Hennie",1.75,bet365,-0.05162857142857136,-0.0583499999999999,False,False
+1,"Du Plessis, Hennie",19421,2.15,bet365,0.4802,0.032,"Ferguson, Ewen",2.15,bet365,0.01508372093023258,0.06442999999999999,True,True
+1,"Ferguson, Ewen",21646,1.72,bet365,0.5198,0.032,"Du Plessis, Hennie",1.72,bet365,-0.061595348837209296,-0.0739439999999999,False,False
 2,"Hatton, Tyrrell",14796,1.7,bet365,0.4816,0.0324,"Wallace, Matt",1.7,bet365,-0.1066352941176471,-0.14888,False,False
 2,"Wallace, Matt",20706,2.2,bet365,0.5184,0.0324,"Hatton, Tyrrell",2.2,bet365,0.06385454545454544,0.17288000000000003,True,True
 4,"Hillier, Daniel",21362,1.83,bet365,0.528,0.0328,"Olesen, Jacob Skov",1.83,bet365,-0.018448087431693905,-0.0009599999999999054,False,False
 4,"Olesen, Jacob Skov",25611,2.0,bet365,0.472,0.0328,"Hillier, Daniel",2.0,bet365,-0.028000000000000025,-0.023200000000000054,False,False
-6,"McKibbin, Tom",22322,1.8,bet365,0.5035,0.0298,"Ayora, Angel",1.8,bet365,-0.05205555555555563,-0.06390000000000007,False,False
-6,"Ayora, Angel",30445,2.05,bet365,0.4965,0.0298,"McKibbin, Tom",2.05,bet365,0.008695121951219464,0.04762499999999986,True,True
+6,"McKibbin, Tom",22322,1.83,bet365,0.5035,0.0298,"Ayora, Angel",1.83,bet365,-0.04294808743169398,-0.04879500000000009,False,False
+6,"Ayora, Angel",30445,2.0,bet365,0.4965,0.0298,"McKibbin, Tom",2.0,bet365,-0.003500000000000003,0.02279999999999993,True,True
 7,"Lindell, Oliver",20085,2.15,bet365,0.492,0.0316,"Nakajima, Keita",2.15,bet365,0.026883720930232557,0.08939999999999998,True,True
 7,"Nakajima, Keita",21074,1.72,bet365,0.508,0.0316,"Lindell, Oliver",1.72,bet365,-0.07339534883720933,-0.09464,False,False
 8,"Parry, John",13764,2.0,bet365,0.4812,0.0272,"Jarvis, Casey",2.0,bet365,-0.018799999999999983,-0.01039999999999991,False,False
