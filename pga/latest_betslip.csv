@@ -1,3 +1,2 @@
 placed_at_utc,bet_type,strategy_name,strategy_tier,player_name,dg_id,market_book_best,market_odds_best_dec,stake_units,p_model,edge_prob,ev_per_unit,kelly_full,kelly_frac,result_win_flag,return_units
-2026-08-25 12:54:01,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Gerard, Ryan",29767,skybet,3.75,10.1,0.3261321528436864,0.0594654861770197,0.2229955731638241,0.08108929933229964,0.02027232483307491,,
-2026-08-25 12:54:01,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"MacIntyre, Robert",23323,skybet,3.75,9.9,0.324881120878545,0.0582144542118783,0.2183042032945436,0.07938334665256135,0.019845836663140336,,
+2026-08-26 10:09:56,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Gerard, Ryan",29767,skybet,3.75,10.6,0.3287480963367947,0.062081429670128,0.2328053612629801,0.08465649500472004,0.02116412375118001,,
