@@ -1,33 +1,33 @@
 group_id,player_name,dg_id,odds,book,p_model,p_push,opponents,market_odds_best_dec,market_book_best,edge_prob,ev_per_unit,value_flag,bet_flag
 0,"Detry, Thomas",14181,1.9,bet365,0.451,0.0296,"Jarvis, Casey",1.9,bet365,-0.07531578947368417,-0.11349999999999999,False,False
 0,"Jarvis, Casey",26947,1.9,bet365,0.549,0.0296,"Detry, Thomas",1.9,bet365,0.022684210526315862,0.07270000000000004,True,True
-1,"Kimsey, Nathan",18027,2.0,bet365,0.4534,0.0332,"Du Plessis, Hennie",2.0,bet365,-0.046599999999999975,-0.05999999999999994,False,False
-1,"Du Plessis, Hennie",19421,1.83,bet365,0.5466,0.0332,"Kimsey, Nathan",1.83,bet365,0.00015191256830604516,0.03347800000000001,True,True
-2,"Garcia, Sergio",5689,1.9,bet365,0.4736,0.0336,"Rozner, Antoine",1.9,bet365,-0.05271578947368416,-0.06656000000000001,False,False
-2,"Rozner, Antoine",18770,1.9,bet365,0.5264,0.0336,"Garcia, Sergio",1.9,bet365,8.421052631579773e-05,0.03375999999999996,True,True
-3,"Hojgaard, Rasmus",23838,2.1,bet365,0.3605,0.0262,"Gerard, Ryan",2.1,bet365,-0.11569047619047618,-0.21674999999999994,False,False
-3,"Gerard, Ryan",29767,1.75,bet365,0.6395,0.0262,"Hojgaard, Rasmus",1.75,bet365,0.06807142857142856,0.14532499999999993,True,True
-4,"Hillier, Daniel",21362,1.9,bet365,0.6254,0.0304,"Puig, David",1.9,bet365,0.09908421052631577,0.21865999999999985,True,True
-4,"Puig, David",28984,1.9,bet365,0.3746,0.0304,"Hillier, Daniel",1.9,bet365,-0.1517157894736842,-0.25786000000000003,False,False
-5,"Hojgaard, Nicolai",23602,1.75,bet365,0.5434,0.0336,"Hall, Harry",1.75,bet365,-0.028028571428571403,-0.01545000000000002,False,False
-5,"Hall, Harry",27194,2.1,bet365,0.4566,0.0336,"Hojgaard, Nicolai",2.1,bet365,-0.019590476190476158,-0.007539999999999991,False,False
-6,"Nakajima, Keita",21074,1.9,bet365,0.4275,0.0294,"Chacarra, Eugenio",1.9,bet365,-0.09881578947368419,-0.15835000000000005,False,False
-6,"Chacarra, Eugenio",26745,1.9,bet365,0.5725,0.0294,"Nakajima, Keita",1.9,bet365,0.04618421052631583,0.11714999999999998,True,True
-7,"Nakajima, Keita",21074,1.85,betmgm,0.4271,0.0294,"Chacarra, Eugenio",1.85,betmgm,-0.11344054054054048,-0.180465,False,False
-7,"Chacarra, Eugenio",26745,1.95,betmgm,0.5729,0.0294,"Nakajima, Keita",1.95,betmgm,0.06007948717948708,0.14655499999999988,True,True
-8,"Neergaard-Petersen, Rasmus",23841,1.9,bet365,0.53,0.03,"Schaper, Jayden",1.9,bet365,0.0036842105263158453,0.03700000000000003,True,True
-8,"Schaper, Jayden",26991,1.9,bet365,0.47,0.03,"Neergaard-Petersen, Rasmus",1.9,bet365,-0.05631578947368421,-0.07700000000000007,False,False
-9,"Penge, Marco",22465,1.75,bet365,0.4983,0.0294,"Ayora, Angel",1.75,bet365,-0.07312857142857138,-0.09857500000000002,False,False
-9,"Ayora, Angel",30445,2.1,bet365,0.5017,0.0294,"Penge, Marco",2.1,bet365,0.02550952380952387,0.0829700000000001,True,True
-10,"Reed, Patrick",14838,2.15,bet365,0.4331,0.0326,"Wallace, Matt",2.15,bet365,-0.03201627906976745,-0.03623500000000007,False,False
-10,"Wallace, Matt",20706,1.72,bet365,0.5669,0.0326,"Reed, Patrick",1.72,bet365,-0.014495348837209376,0.007667999999999953,True,True
-11,"Wallace, Matt",20706,2.0,betmgm,0.459,0.0344,"Gerard, Ryan",2.0,betmgm,-0.04099999999999998,-0.04759999999999992,False,False
-11,"Gerard, Ryan",29767,1.8,betmgm,0.541,0.0344,"Wallace, Matt",1.8,betmgm,-0.014555555555555544,0.008200000000000096,True,True
-52,"Detry, Thomas",14181,1.95,betmgm,0.4503,0.031,"Reed, Patrick",1.95,betmgm,-0.06252051282051291,-0.09091500000000008,False,False
-52,"Reed, Patrick",14838,1.85,betmgm,0.5497,0.031,"Detry, Thomas",1.85,betmgm,0.009159459459459507,0.047945000000000015,True,True
-53,"Hillier, Daniel",21362,1.85,betmgm,0.5083,0.029,"Jarvis, Casey",1.85,betmgm,-0.032240540540540485,-0.030644999999999978,False,False
-53,"Jarvis, Casey",26947,1.95,betmgm,0.4917,0.029,"Hillier, Daniel",1.95,betmgm,-0.02112051282051286,-0.012184999999999946,False,False
-54,"Garcia, Sergio",5689,1.85,betmgm,0.5306,0.0308,"Schaper, Jayden",1.85,betmgm,-0.009940540540540499,0.012409999999999977,True,True
-54,"Schaper, Jayden",26991,1.95,betmgm,0.4694,0.0308,"Garcia, Sergio",1.95,betmgm,-0.0434205128205129,-0.05387000000000003,False,False
-55,"Hall, Harry",27194,1.8,betmgm,0.4649,0.031,"Ayora, Angel",1.8,betmgm,-0.0906555555555556,-0.13217999999999996,False,False
-55,"Ayora, Angel",30445,2.0,betmgm,0.5351,0.031,"Hall, Harry",2.0,betmgm,0.03510000000000002,0.10120000000000007,True,True
+1,"Kimsey, Nathan",18027,1.9,bet365,0.4535,0.033,"Du Plessis, Hennie",1.9,bet365,-0.07281578947368417,-0.10535,False,False
+1,"Du Plessis, Hennie",19421,1.9,bet365,0.5465,0.033,"Kimsey, Nathan",1.9,bet365,0.020184210526315804,0.07134999999999997,True,True
+2,"Garcia, Sergio",5689,1.9,bet365,0.4735,0.0334,"Rozner, Antoine",1.9,bet365,-0.052815789473684205,-0.06695000000000007,False,False
+2,"Rozner, Antoine",18770,1.9,bet365,0.5265,0.0334,"Garcia, Sergio",1.9,bet365,0.00018421052631578672,0.03374999999999989,True,True
+3,"Hojgaard, Rasmus",23838,2.2,bet365,0.3607,0.0262,"Gerard, Ryan",2.2,bet365,-0.09384545454545451,-0.18025999999999986,False,False
+3,"Gerard, Ryan",29767,1.7,bet365,0.6393,0.0262,"Hojgaard, Rasmus",1.7,bet365,0.0510647058823529,0.11300999999999994,True,True
+4,"Hillier, Daniel",21362,1.8,bet365,0.6254,0.0304,"Puig, David",1.8,bet365,0.06984444444444438,0.15611999999999993,True,True
+4,"Puig, David",28984,2.05,bet365,0.3746,0.0304,"Hillier, Daniel",2.05,bet365,-0.11320487804878054,-0.20167000000000007,False,False
+5,"Hojgaard, Nicolai",23602,1.75,bet365,0.5436,0.0336,"Hall, Harry",1.75,bet365,-0.027828571428571425,-0.015100000000000058,False,False
+5,"Hall, Harry",27194,2.1,bet365,0.4564,0.0336,"Hojgaard, Nicolai",2.1,bet365,-0.01979047619047619,-0.007960000000000078,False,False
+6,"Nakajima, Keita",21074,1.9,bet365,0.4279,0.029,"Chacarra, Eugenio",1.9,bet365,-0.09841578947368418,-0.15799000000000007,False,False
+6,"Chacarra, Eugenio",26745,1.9,bet365,0.5721,0.029,"Nakajima, Keita",1.9,bet365,0.04578421052631587,0.11599000000000004,True,True
+7,"Nakajima, Keita",21074,1.85,betmgm,0.4273,0.029,"Chacarra, Eugenio",1.85,betmgm,-0.11324054054054045,-0.1804949999999999,False,False
+7,"Chacarra, Eugenio",26745,1.95,betmgm,0.5727,0.029,"Nakajima, Keita",1.95,betmgm,0.0598794871794871,0.14576499999999992,True,True
+8,"Neergaard-Petersen, Rasmus",23841,2.0,bet365,0.5294,0.03,"Schaper, Jayden",2.0,bet365,0.02939999999999998,0.08879999999999999,True,True
+8,"Schaper, Jayden",26991,1.83,bet365,0.4706,0.03,"Neergaard-Petersen, Rasmus",1.83,bet365,-0.07584808743169391,-0.1088019999999999,False,False
+9,"Penge, Marco",22465,1.7,bet365,0.4979,0.0298,"Ayora, Angel",1.7,bet365,-0.09033529411764707,-0.12376999999999999,False,False
+9,"Ayora, Angel",30445,2.2,bet365,0.5021,0.0298,"Penge, Marco",2.2,bet365,0.04755454545454546,0.13442000000000004,True,True
+10,"Reed, Patrick",14838,2.3,bet365,0.4335,0.0326,"Wallace, Matt",2.3,bet365,-0.001282608695652221,0.029649999999999843,True,True
+10,"Wallace, Matt",20706,1.62,bet365,0.5665,0.0326,"Reed, Patrick",1.62,bet365,-0.05078395061728391,-0.049669999999999936,False,False
+21,"Wallace, Matt",20706,2.0,betmgm,0.459,0.0344,"Gerard, Ryan",2.0,betmgm,-0.04099999999999998,-0.04759999999999992,False,False
+21,"Gerard, Ryan",29767,1.8,betmgm,0.541,0.0344,"Wallace, Matt",1.8,betmgm,-0.014555555555555544,0.008200000000000096,True,True
+51,"Garcia, Sergio",5689,1.85,betmgm,0.5191,0.0294,"Schaper, Jayden",1.85,betmgm,-0.021440540540540454,-0.010264999999999969,False,False
+51,"Schaper, Jayden",26991,1.95,betmgm,0.4809,0.0294,"Garcia, Sergio",1.95,betmgm,-0.03192051282051289,-0.03284500000000007,False,False
+95,"Detry, Thomas",14181,1.95,betmgm,0.4465,0.0326,"Reed, Patrick",1.95,betmgm,-0.06632051282051288,-0.09672500000000006,False,False
+95,"Reed, Patrick",14838,1.85,betmgm,0.5535,0.0326,"Detry, Thomas",1.85,betmgm,0.012959459459459532,0.05657500000000004,True,True
+96,"Hillier, Daniel",21362,1.85,betmgm,0.5223,0.031,"Jarvis, Casey",1.85,betmgm,-0.018240540540540473,-0.002744999999999942,False,False
+96,"Jarvis, Casey",26947,1.95,betmgm,0.4777,0.031,"Hillier, Daniel",1.95,betmgm,-0.03512051282051287,-0.03748499999999999,False,False
+97,"Hall, Harry",27194,1.8,betmgm,0.4649,0.031,"Ayora, Angel",1.8,betmgm,-0.0906555555555556,-0.13217999999999996,False,False
+97,"Ayora, Angel",30445,2.0,betmgm,0.5351,0.031,"Hall, Harry",2.0,betmgm,0.03510000000000002,0.10120000000000007,True,True
