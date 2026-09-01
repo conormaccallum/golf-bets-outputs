@@ -1,2 +1,1 @@
 placed_at_utc,bet_type,strategy_name,strategy_tier,player_name,dg_id,market_book_best,market_odds_best_dec,stake_units,p_model,edge_prob,ev_per_unit,kelly_full,kelly_frac,result_win_flag,return_units
-2026-08-26 10:09:56,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Gerard, Ryan",29767,skybet,3.75,10.6,0.3287480963367947,0.062081429670128,0.2328053612629801,0.08465649500472004,0.02116412375118001,,
