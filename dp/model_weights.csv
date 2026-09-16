@@ -1,0 +1,12 @@
+factor,weight
+sg_app (Approach),0.55
+sg_ott (Off the tee),0.25
+sg_arg (Around green),0.1
+sg_putt (Putting),0.1
+total_fit_adjustment,0.1
+total_course_history_adjustment,0.05
+timing_adjustment,0.2
+win_tail_gamma,1.1
+top5_tail_gamma,1.08
+top10_tail_gamma,1.06
+top20_tail_gamma,1.03
