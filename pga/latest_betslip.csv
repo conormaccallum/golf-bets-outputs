@@ -1,3 +1,1 @@
 placed_at_utc,bet_type,strategy_name,strategy_tier,player_name,dg_id,market_book_best,market_odds_best_dec,stake_units,p_model,edge_prob,ev_per_unit,kelly_full,kelly_frac,result_win_flag,return_units
-2026-09-16 12:44:21,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Cole, Eric",21756,betway,5.0,13.8,0.244034876832135,0.044034876832135,0.220174384160675,0.055043596040168785,0.013760899010042196,,
-2026-09-16 12:44:21,Top 10,Top 10: DG anchor + putting overlay,Tier 2 - current-price / early value,"Taylor, Nick",13126,skybet,8.0,10.6,0.1621924484520396,0.0371924484520395,0.2975395876163167,0.042505655373759534,0.010626413843439883,,
