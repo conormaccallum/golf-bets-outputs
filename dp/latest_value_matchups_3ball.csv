@@ -1,115 +1,55 @@
 group_id,player_name,dg_id,odds,book,p_model,p_push,opponents,market_odds_best_dec,market_book_best,edge_prob,ev_per_unit,value_flag,bet_flag
-1,"Paul, Jeremy",22087,2.9,unibet,0.27776666666666666,,"Walker, Euan, Schmidt, Ben",2.9,unibet,-0.06706091954022991,-0.19447666666666663,False,False
-1,"Walker, Euan",27147,2.8,bet365,0.3850666666666666,,"Paul, Jeremy, Schmidt, Ben",2.8,bet365,0.027923809523809462,0.07818666666666652,True,True
-1,"Schmidt, Ben",27258,2.8,unibet,0.3371666666666666,,"Paul, Jeremy, Walker, Euan",2.8,unibet,-0.019976190476190536,-0.0559333333333335,False,False
-2,"Quayle, Anthony",18900,2.6,bet365,0.41723333333333323,,"Capan III, Frankie, Berry, Joshua",2.6,bet365,0.03261794871794865,0.08480666666666647,True,True
-2,"Capan III, Frankie",21412,2.9,bet365,0.29793333333333333,,"Quayle, Anthony, Berry, Joshua",2.9,bet365,-0.04689425287356325,-0.1359933333333333,False,False
-2,"Berry, Joshua",31520,3.0,unibet,0.2848333333333333,,"Quayle, Anthony, Capan III, Frankie",3.0,unibet,-0.04849999999999999,-0.14550000000000007,False,False
-3,"Langasque, Romain",16652,2.5,bet365,0.34346666666666664,,"Gouveia, Ricardo, Celli, Filippo",2.5,bet365,-0.05653333333333338,-0.14133333333333342,False,False
-3,"Gouveia, Ricardo",18722,3.2,betmgm,0.2856666666666666,,"Langasque, Romain, Celli, Filippo",3.2,betmgm,-0.026833333333333376,-0.08586666666666676,False,False
-3,"Celli, Filippo",23549,3.0,unibet,0.3708666666666667,,"Langasque, Romain, Gouveia, Ricardo",3.0,unibet,0.03753333333333336,0.11260000000000003,True,True
-4,"Molinari, Edoardo",7033,3.75,unibet,0.16830000000000003,,"Levy, Alexander, Stone, Brandon",3.75,unibet,-0.09836666666666663,-0.3688749999999999,False,False
-4,"Levy, Alexander",14973,2.75,unibet,0.3103,,"Molinari, Edoardo, Stone, Brandon",2.75,unibet,-0.053336363636363626,-0.1466749999999999,False,False
-4,"Stone, Brandon",15229,2.3,bet365,0.5214,,"Molinari, Edoardo, Levy, Alexander",2.3,bet365,0.08661739130434776,0.19921999999999984,True,True
-5,"Pieters, Thomas",13944,2.6,bet365,0.3515666666666667,,"Rozner, Antoine, Elvira, Manuel",2.6,bet365,-0.03304871794871789,-0.0859266666666666,False,False
-5,"Rozner, Antoine",18770,2.63,betmgm,0.3682666666666667,,"Pieters, Thomas, Elvira, Manuel",2.63,betmgm,-0.011961470215462622,-0.031458666666666635,False,False
-5,"Elvira, Manuel",26008,3.25,unibet,0.2801666666666667,,"Pieters, Thomas, Rozner, Antoine",3.25,unibet,-0.027525641025641034,-0.0894583333333333,False,False
-6,"Smylie, Elvis",24200,2.5,unibet,0.3298,,"Kobori, Kazuma, Johnston, Ryggs",2.5,unibet,-0.07020000000000004,-0.17550000000000004,False,False
-6,"Kobori, Kazuma",24369,2.1,bet365,0.5436,,"Smylie, Elvis, Johnston, Ryggs",2.1,bet365,0.06740952380952381,0.14156000000000002,True,True
-6,"Johnston, Ryggs",32449,5.5,unibet,0.1266,,"Smylie, Elvis, Kobori, Kazuma",5.5,unibet,-0.05521818181818183,-0.30369999999999997,False,False
-7,"Perez, Victor",20730,2.25,betmgm,0.3926333333333333,,"Steinlechner, Maximilian, Bradbury, Dan",2.25,betmgm,-0.05181111111111114,-0.1165750000000001,False,False
-7,"Steinlechner, Maximilian",21677,3.6,unibet,0.25583333333333336,,"Perez, Victor, Bradbury, Dan",3.6,unibet,-0.021944444444444433,-0.07899999999999985,False,False
-7,"Bradbury, Dan",29971,3.0,bet365,0.3515333333333333,,"Perez, Victor, Steinlechner, Maximilian",3.0,bet365,0.018199999999999994,0.05459999999999987,True,True
-8,"Elvira Mijares, Ignacio",12988,3.25,unibet,0.3017,,"Detry, Thomas, Couvra, Martin",3.25,unibet,-0.005992307692307686,-0.01947499999999991,False,False
-8,"Detry, Thomas",14181,2.3,bet365,0.39109999999999995,,"Elvira Mijares, Ignacio, Couvra, Martin",2.3,bet365,-0.04368260869565227,-0.10047000000000017,False,False
-8,"Couvra, Martin",27811,3.0,bet365,0.3072,,"Elvira Mijares, Ignacio, Detry, Thomas",3.0,bet365,-0.026133333333333342,-0.07840000000000014,False,False
-9,"Armitage, Marcus",17813,2.3,bet365,0.4422666666666667,,"Mazzoli, Stefano, Schott, Freddy",2.3,bet365,0.0074840579710144794,0.017213333333333303,True,True
-9,"Mazzoli, Stefano",20844,4.0,unibet,0.1963666666666667,,"Armitage, Marcus, Schott, Freddy",4.0,unibet,-0.05363333333333331,-0.21453333333333324,False,False
-9,"Schott, Freddy",27588,2.6,bet365,0.3613666666666666,,"Armitage, Marcus, Mazzoli, Stefano",2.6,bet365,-0.023248717948717967,-0.06044666666666676,False,False
-10,"Manassero, Matteo",11460,3.25,bet365,0.3698,,"Veerman, Johannes, Ferguson, Ewen",3.25,bet365,0.06210769230769231,0.20185000000000008,True,True
-10,"Veerman, Johannes",20522,3.6,unibet,0.1903,,"Manassero, Matteo, Ferguson, Ewen",3.6,unibet,-0.0874777777777778,-0.31492,False,False
-10,"Ferguson, Ewen",21646,2.25,betmgm,0.4399,,"Manassero, Matteo, Veerman, Johannes",2.25,betmgm,-0.0045444444444444065,-0.01022500000000004,False,False
-11,"Fitzpatrick, Matt",17646,2.75,unibet,0.2993,,"Hovland, Viktor, Aberg, Ludvig",2.75,unibet,-0.06433636363636364,-0.176925,False,False
-11,"Hovland, Viktor",18841,3.0,unibet,0.3043,,"Fitzpatrick, Matt, Aberg, Ludvig",3.0,unibet,-0.0290333333333333,-0.08709999999999996,False,False
-11,"Aberg, Ludvig",23950,2.63,betmgm,0.3964,,"Fitzpatrick, Matt, Hovland, Viktor",2.63,betmgm,0.016171863117870666,0.0425319999999999,True,True
-12,"Guerrier, Julien",10201,3.75,unibet,0.18606666666666669,,"Kim, Michael, Chacarra, Eugenio",3.75,unibet,-0.08059999999999998,-0.3022499999999999,False,False
-12,"Kim, Michael",17543,2.75,unibet,0.33766666666666667,,"Guerrier, Julien, Chacarra, Eugenio",2.75,unibet,-0.025969696969696976,-0.07141666666666668,False,False
-12,"Chacarra, Eugenio",26745,2.3,bet365,0.47626666666666667,,"Guerrier, Julien, Kim, Michael",2.3,bet365,0.041484057971014454,0.09541333333333324,True,True
-13,"Van Driel, Darius",13374,2.5,bet365,0.4011,,"Lee, Junghwan, Clements, Todd",2.5,bet365,0.0010999999999999899,0.00275000000000003,True,True
-13,"Lee, Junghwan",13498,4.0,unibet,0.1843,,"Van Driel, Darius, Clements, Todd",4.0,unibet,-0.06570000000000001,-0.26280000000000003,False,False
-13,"Clements, Todd",22608,2.4,unibet,0.4146,,"Van Driel, Darius, Lee, Junghwan",2.4,unibet,-0.002066666666666661,-0.0049599999999999644,False,False
-14,"Sullivan, Andy",15326,2.3,bet365,0.3934,,"Du Plessis, Hennie, Pavon, Matthieu",2.3,bet365,-0.04138260869565219,-0.09518000000000004,False,False
-14,"Du Plessis, Hennie",19421,3.2,bet365,0.3312,,"Sullivan, Andy, Pavon, Matthieu",3.2,bet365,0.018699999999999994,0.059840000000000004,True,True
-14,"Pavon, Matthieu",19960,3.2,unibet,0.2754,,"Sullivan, Andy, Du Plessis, Hennie",3.2,unibet,-0.03710000000000002,-0.11872000000000005,False,False
-15,"Fisher, Ross",9396,2.5,bet365,0.3967666666666666,,"Von Dellingshausen, Nicolai, Ravetto, David",2.5,bet365,-0.0032333333333334213,-0.008083333333333553,False,False
-15,"Von Dellingshausen, Nicolai",22231,3.2,unibet,0.2528666666666667,,"Fisher, Ross, Ravetto, David",3.2,unibet,-0.059633333333333316,-0.1908266666666666,False,False
-15,"Ravetto, David",23416,2.8,unibet,0.3503666666666666,,"Fisher, Ross, Von Dellingshausen, Nicolai",2.8,unibet,-0.006776190476190547,-0.01897333333333362,False,False
-16,"Katsuragawa, Yuto",20448,3.0,unibet,0.25683333333333336,,"Rosenmueller, Thomas, Robinson Thompson, Brandon",3.0,unibet,-0.07649999999999996,-0.22949999999999993,False,False
-16,"Rosenmueller, Thomas",22736,2.25,bet365,0.5183333333333333,,"Katsuragawa, Yuto, Robinson Thompson, Brandon",2.25,bet365,0.07388888888888889,0.16625,True,True
-16,"Robinson Thompson, Brandon",24497,3.4,betmgm,0.22483333333333336,,"Katsuragawa, Yuto, Rosenmueller, Thomas",3.4,betmgm,-0.06928431372549018,-0.2355666666666666,False,False
-17,"Hill, Calum",25131,2.5,bet365,0.3261,,"Rodrigues, Daniel, Kaneko, Kota",2.5,bet365,-0.07390000000000002,-0.18474999999999997,False,False
-17,"Rodrigues, Daniel",27149,3.25,unibet,0.3125,,"Hill, Calum, Kaneko, Kota",3.25,unibet,0.004807692307692291,0.015625,True,True
-17,"Kaneko, Kota",28268,2.9,bet365,0.3614,,"Hill, Calum, Rodrigues, Daniel",2.9,bet365,0.016572413793103424,0.04805999999999988,True,True
-18,"Lemke, Niklas",10418,2.7,unibet,0.3375666666666666,,"Forsstrom, Simon, De Leo, Gregorio",2.7,unibet,-0.032803703703703724,-0.08857000000000015,False,False
-18,"Forsstrom, Simon",19806,4.2,bet365,0.1788666666666667,,"Lemke, Niklas, De Leo, Gregorio",4.2,bet365,-0.05922857142857138,-0.24875999999999976,False,False
-18,"De Leo, Gregorio",26506,2.15,unibet,0.4835666666666666,,"Lemke, Niklas, Forsstrom, Simon",2.15,unibet,0.018450387596899154,0.03966833333333308,True,True
-19,"Morrison, James",11061,2.7,bet365,0.32743333333333324,,"Micheluzzi, David, Young, Daniel",2.7,bet365,-0.04293703703703711,-0.1159300000000002,False,False
-19,"Micheluzzi, David",19224,2.88,unibet,0.2652333333333333,,"Morrison, James, Young, Daniel",2.88,unibet,-0.08198888888888889,-0.23612800000000006,False,False
-19,"Young, Daniel",19908,2.88,unibet,0.40733333333333327,,"Morrison, James, Micheluzzi, David",2.88,unibet,0.06011111111111106,0.17311999999999983,True,True
-20,"Zanotti, Fabrizio",9842,2.3,bet365,0.4702,,"Jonsson, Tobias, Adam, Cameron",2.3,bet365,0.03541739130434779,0.08145999999999987,True,True
-20,"Jonsson, Tobias",28686,3.0,unibet,0.2624,,"Zanotti, Fabrizio, Adam, Cameron",3.0,unibet,-0.07093333333333329,-0.2128,False,False
-20,"Adam, Cameron",34024,3.6,unibet,0.2674,,"Zanotti, Fabrizio, Jonsson, Tobias",3.6,unibet,-0.010377777777777764,-0.03735999999999984,False,False
-21,"Garcia Rodriguez, Sebastian",12258,3.6,unibet,0.28113333333333324,,"Kimsey, Nathan, Bergstrom, Albin",3.6,unibet,0.003355555555555445,0.012079999999999647,True,True
-21,"Kimsey, Nathan",18027,2.0,bet365,0.4957333333333333,,"Garcia Rodriguez, Sebastian, Bergstrom, Albin",2.0,bet365,-0.004266666666666696,-0.008533333333333337,False,False
-21,"Bergstrom, Albin",23620,3.5,unibet,0.22313333333333335,,"Garcia Rodriguez, Sebastian, Kimsey, Nathan",3.5,unibet,-0.06258095238095235,-0.2190333333333332,False,False
-26,"Pepperell, Eddie",15113,2.3,bet365,0.4419,,"Peake, Ryan, Lombard, Zander",2.3,bet365,0.007117391304347798,0.016369999999999885,True,True
-26,"Peake, Ryan",15169,4.0,unibet,0.27309999999999995,,"Pepperell, Eddie, Lombard, Zander",4.0,unibet,0.023099999999999954,0.09239999999999982,True,True
-26,"Lombard, Zander",16897,2.62,bet365,0.285,,"Pepperell, Eddie, Peake, Ryan",2.62,bet365,-0.0966793893129771,-0.2533000000000001,False,False
-28,"Scrivener, Jason",12734,2.75,bet365,0.2662,,"Crocker, Sean, Gumberg, Jordan",2.75,bet365,-0.09743636363636365,-0.26795,False,False
-28,"Crocker, Sean",23610,2.5,unibet,0.4465999999999999,,"Scrivener, Jason, Gumberg, Jordan",2.5,unibet,0.046599999999999864,0.11649999999999971,True,True
-28,"Gumberg, Jordan",23892,3.2,betmgm,0.28719999999999996,,"Scrivener, Jason, Crocker, Sean",3.2,betmgm,-0.025300000000000045,-0.08096000000000014,False,False
-29,"Norris, Shaun",7677,3.2,unibet,0.24813333333333334,,"Ortiz, Carlos, LaCroix, Frederic",3.2,unibet,-0.06436666666666666,-0.20597333333333323,False,False
-29,"Ortiz, Carlos",14735,2.5,unibet,0.3731333333333334,,"Norris, Shaun, LaCroix, Frederic",2.5,unibet,-0.02686666666666665,-0.0671666666666666,False,False
-29,"LaCroix, Frederic",23733,2.9,betmgm,0.37873333333333337,,"Norris, Shaun, Ortiz, Carlos",2.9,betmgm,0.03390574712643679,0.09832666666666667,True,True
-30,"Jamieson, Scott",11397,3.75,bet365,0.19616666666666668,,"Winther, Jeff, Dean, Joe",3.75,bet365,-0.07049999999999998,-0.2643749999999999,False,False
-30,"Winther, Jeff",15680,2.4,unibet,0.4377666666666667,,"Jamieson, Scott, Dean, Joe",2.4,unibet,0.021100000000000008,0.05064000000000002,True,True
-30,"Dean, Joe",16497,2.6,bet365,0.3660666666666666,,"Jamieson, Scott, Winther, Jeff",2.6,bet365,-0.018548717948717985,-0.04822666666666686,False,False
-31,"Forrest, Grant",16475,2.75,unibet,0.31686666666666663,,"Naidoo, Dylan, Hidalgo, Angel",2.75,unibet,-0.04676969696969702,-0.12861666666666682,False,False
-31,"Naidoo, Dylan",19429,4.75,unibet,0.16366666666666668,,"Forrest, Grant, Hidalgo, Angel",4.75,unibet,-0.04685964912280699,-0.22258333333333336,False,False
-31,"Hidalgo, Angel",24127,2.1,betmgm,0.5194666666666667,,"Forrest, Grant, Naidoo, Dylan",2.1,betmgm,0.04327619047619058,0.09088000000000018,True,True
-32,"Saddier, Adrien",14792,3.1,betmgm,0.2861666666666667,,"Smith, Cameron, Ayora, Angel",3.1,betmgm,-0.03641397849462363,-0.11288333333333322,False,False
-32,"Smith, Cameron",15856,3.0,unibet,0.2679666666666667,,"Saddier, Adrien, Ayora, Angel",3.0,unibet,-0.06536666666666663,-0.19609999999999994,False,False
-32,"Ayora, Angel",30445,2.5,bet365,0.44586666666666663,,"Saddier, Adrien, Smith, Cameron",2.5,bet365,0.04586666666666661,0.11466666666666658,True,True
-33,"Senior, Jack",15115,3.2,unibet,0.2906,,"Kinhult, Marcus, Cantero Gutierrez, Ivan",3.2,unibet,-0.021899999999999975,-0.07007999999999992,False,False
-33,"Kinhult, Marcus",18514,2.25,bet365,0.4348,,"Senior, Jack, Cantero Gutierrez, Ivan",2.25,bet365,-0.0096444444444444,-0.02169999999999994,False,False
-33,"Cantero Gutierrez, Ivan",19635,3.4,unibet,0.27460000000000007,,"Senior, Jack, Kinhult, Marcus",3.4,unibet,-0.019517647058823473,-0.06635999999999975,False,False
-34,"Fleetwood, Tommy",12294,2.45,betmgm,0.3606,,"Reitan, Kristoffer, Gerard, Ryan",2.45,betmgm,-0.047563265306122426,-0.11652999999999991,False,False
-34,"Reitan, Kristoffer",21407,3.5,unibet,0.24,,"Fleetwood, Tommy, Gerard, Ryan",3.5,unibet,-0.04571428571428571,-0.16000000000000003,False,False
-34,"Gerard, Ryan",29767,2.75,unibet,0.3994,,"Fleetwood, Tommy, Reitan, Kristoffer",2.75,unibet,0.03576363636363633,0.09834999999999994,True,True
-35,"Siem, Marcel",6950,3.5,bet365,0.2225666666666667,,"Luiten, Joost, Wu, Ashun",3.5,bet365,-0.06314761904761901,-0.22101666666666653,False,False
-35,"Luiten, Joost",10158,2.05,bet365,0.5562666666666667,,"Siem, Marcel, Wu, Ashun",2.05,bet365,0.06846178861788615,0.14034666666666662,True,True
-35,"Wu, Ashun",11763,3.25,betmgm,0.2211666666666667,,"Siem, Marcel, Luiten, Joost",3.25,betmgm,-0.086525641025641,-0.28120833333333317,False,False
-36,"Cauley, Bud",14502,2.3,betmgm,0.4411333333333334,,"Lawrence, Thriston, Guillamoundeguy, Oihan",2.3,betmgm,0.00635072463768116,0.014606666666666657,True,True
-36,"Lawrence, Thriston",18105,3.25,unibet,0.3312333333333333,,"Cauley, Bud, Guillamoundeguy, Oihan",3.25,unibet,0.023541025641025615,0.07650833333333329,True,True
-36,"Guillamoundeguy, Oihan",28239,3.25,bet365,0.2276333333333333,,"Cauley, Bud, Lawrence, Thriston",3.25,bet365,-0.08005897435897441,-0.2601916666666667,False,False
-37,"Otaegui, Adrian",14975,2.65,unibet,0.35316666666666663,,"Hoshino, Rikuya, Bairstow, Sam",2.65,unibet,-0.024191823899371134,-0.06410833333333343,False,False
-37,"Hoshino, Rikuya",19190,3.8,unibet,0.2278666666666667,,"Otaegui, Adrian, Bairstow, Sam",3.8,unibet,-0.0352912280701754,-0.1341066666666666,False,False
-37,"Bairstow, Sam",28615,2.37,bet365,0.4189666666666666,,"Otaegui, Adrian, Hoshino, Rikuya",2.37,bet365,-0.00297426160337555,-0.007049000000000083,False,False
-38,"Waring, Paul",12426,2.7,betmgm,0.4095666666666667,,"Coussaud, Ugo, Zhou, Yanhan",2.7,betmgm,0.03919629629629634,0.10583000000000009,True,True
-38,"Coussaud, Ugo",20727,2.6,bet365,0.4350666666666667,,"Waring, Paul, Zhou, Yanhan",2.6,bet365,0.05045128205128213,0.13117333333333348,True,True
-38,"Zhou, Yanhan",29119,3.5,unibet,0.15536666666666665,,"Waring, Paul, Coussaud, Ugo",3.5,unibet,-0.13034761904761905,-0.4562166666666667,False,False
-40,"Aphibarnrat, Kiradech",12321,3.0,bet365,0.31339999999999996,,"Dantorp, Jens, Meronk, Adrian",3.0,bet365,-0.01993333333333336,-0.059800000000000186,False,False
-40,"Dantorp, Jens",14018,2.9,betmgm,0.33019999999999994,,"Aphibarnrat, Kiradech, Meronk, Adrian",2.9,betmgm,-0.014627586206896637,-0.042420000000000235,False,False
-40,"Meronk, Adrian",14196,2.7,unibet,0.35639999999999994,,"Aphibarnrat, Kiradech, Dantorp, Jens",2.7,unibet,-0.01397037037037041,-0.03772000000000009,False,False
-41,"Laporta, Francesco",14987,2.7,betmgm,0.34833333333333333,,"Migliozzi, Guido, Vaillant, Tom",2.7,betmgm,-0.02203703703703702,-0.059499999999999886,False,False
-41,"Migliozzi, Guido",17357,2.7,unibet,0.3417333333333333,,"Laporta, Francesco, Vaillant, Tom",2.7,unibet,-0.028637037037037072,-0.07732000000000017,False,False
-41,"Vaillant, Tom",28157,3.1,betmgm,0.3099333333333333,,"Laporta, Francesco, Migliozzi, Guido",3.1,betmgm,-0.01264731182795703,-0.039206666666666834,False,False
-43,"Van Tonder, Daniel",15193,3.0,unibet,0.29519999999999996,,"Girrbach, Joel, Mory, Felix",3.0,unibet,-0.03813333333333335,-0.11440000000000017,False,False
-43,"Girrbach, Joel",15592,2.38,betmgm,0.4414,,"Van Tonder, Daniel, Mory, Felix",2.38,betmgm,0.021231932773109252,0.05053200000000002,True,True
-43,"Mory, Felix",25089,3.25,unibet,0.2634,,"Van Tonder, Daniel, Girrbach, Joel",3.25,unibet,-0.044292307692307686,-0.1439499999999999,False,False
-44,"Baldwin, Matthew",13344,3.1,bet365,0.3431666666666667,,"Halvorsen, Andreas, Arnaus, Adri",3.1,bet365,0.020586021505376362,0.06381666666666663,True,True
-44,"Halvorsen, Andreas",17747,2.25,bet365,0.4289666666666667,,"Baldwin, Matthew, Arnaus, Adri",2.25,bet365,-0.015477777777777701,-0.034824999999999884,False,False
-44,"Arnaus, Adri",23236,3.6,unibet,0.22786666666666666,,"Baldwin, Matthew, Halvorsen, Andreas",3.6,unibet,-0.04991111111111113,-0.17967999999999995,False,False
-45,"Paratore, Renato",16549,2.2,bet365,0.40903333333333325,,"Charmasson, Clement, Sandhu, Yuvraj Singh",2.2,bet365,-0.04551212121212128,-0.10012666666666675,False,False
-45,"Charmasson, Clement",22220,3.2,unibet,0.2779333333333333,,"Paratore, Renato, Sandhu, Yuvraj Singh",3.2,unibet,-0.03456666666666669,-0.11061333333333334,False,False
-45,"Sandhu, Yuvraj Singh",23060,3.4,unibet,0.31303333333333333,,"Paratore, Renato, Charmasson, Clement",3.4,unibet,0.01891568627450979,0.06431333333333322,True,True
+0,"Pieters, Thomas",13944,2.4,bet365,0.5054666666666667,,"Meronk, Adrian, Law, David",2.4,bet365,0.08880000000000005,0.2131200000000001,True,True
+0,"Meronk, Adrian",14196,3.25,unibet,0.2302666666666667,,"Pieters, Thomas, Law, David",3.25,unibet,-0.077425641025641,-0.25163333333333315,False,False
+0,"Law, David",14784,3.0,bet365,0.26426666666666665,,"Pieters, Thomas, Meronk, Adrian",3.0,bet365,-0.06906666666666667,-0.20720000000000005,False,False
+3,"Young, Daniel",19908,3.1,unibet,0.2934,,"Von Dellingshausen, Nicolai, Debove, Quentin",3.1,unibet,-0.02918064516129032,-0.09045999999999998,False,False
+3,"Von Dellingshausen, Nicolai",22231,2.4,bet365,0.4027,,"Young, Daniel, Debove, Quentin",2.4,bet365,-0.013966666666666683,-0.033519999999999994,False,False
+3,"Debove, Quentin",25325,3.1,bet365,0.3039,,"Young, Daniel, Von Dellingshausen, Nicolai",3.1,bet365,-0.01868064516129031,-0.057909999999999906,False,False
+4,"Jamieson, Scott",11397,2.9,bet365,0.30956666666666666,,"Paul, Yannik, Clements, Todd",2.9,bet365,-0.03526091954022992,-0.10225666666666677,False,False
+4,"Paul, Yannik",19898,3.75,unibet,0.19276666666666667,,"Jamieson, Scott, Clements, Todd",3.75,unibet,-0.0739,-0.27712500000000007,False,False
+4,"Clements, Todd",22608,2.37,bet365,0.4976666666666667,,"Jamieson, Scott, Paul, Yannik",2.37,bet365,0.07572573839662455,0.17947000000000013,True,True
+5,"Wu, Ashun",11763,3.4,bet365,0.1842,,"Elvira Mijares, Ignacio, Kaneko, Kota",3.4,bet365,-0.10991764705882354,-0.37372,False,False
+5,"Elvira Mijares, Ignacio",12988,2.45,unibet,0.40719999999999995,,"Wu, Ashun, Kaneko, Kota",2.45,unibet,-0.0009632653061224516,-0.0023600000000000287,False,False
+5,"Kaneko, Kota",28268,2.62,bet365,0.4086,,"Wu, Ashun, Elvira Mijares, Ignacio",2.62,bet365,0.02692061068702295,0.07053200000000015,True,True
+6,"Otaegui, Adrian",14975,1.9,bet365,0.5424666666666667,,"Follet-Smith, Benjamin, Naidoo, Dylan",1.9,bet365,0.01615087719298247,0.030686666666666584,True,True
+6,"Follet-Smith, Benjamin",15211,3.6,unibet,0.28076666666666666,,"Otaegui, Adrian, Naidoo, Dylan",3.6,unibet,0.0029888888888888743,0.010759999999999992,True,True
+6,"Naidoo, Dylan",19429,3.9,unibet,0.17676666666666666,,"Otaegui, Adrian, Follet-Smith, Benjamin",3.9,unibet,-0.07964358974358979,-0.31061000000000005,False,False
+7,"Girrbach, Joel",15592,2.4,bet365,0.4602333333333333,,"Tarren, Callum, Celli, Filippo",2.4,bet365,0.04356666666666664,0.10455999999999988,True,True
+7,"Tarren, Callum",20519,4.0,unibet,0.19933333333333333,,"Girrbach, Joel, Celli, Filippo",4.0,unibet,-0.050666666666666665,-0.20266666666666666,False,False
+7,"Celli, Filippo",23549,2.5,unibet,0.3404333333333334,,"Girrbach, Joel, Tarren, Callum",2.5,unibet,-0.0595666666666666,-0.14891666666666648,False,False
+8,"Lee, Junghwan",13498,4.5,bet365,0.1345,,"Couvra, Martin, Ayora, Angel",4.5,bet365,-0.0877222222222222,-0.39474999999999993,False,False
+8,"Couvra, Martin",27811,2.6,bet365,0.3289999999999999,,"Lee, Junghwan, Ayora, Angel",2.6,bet365,-0.05561538461538468,-0.14460000000000017,False,False
+8,"Ayora, Angel",30445,2.2,unibet,0.5365,,"Lee, Junghwan, Couvra, Martin",2.2,unibet,0.08195454545454545,0.18030000000000002,True,True
+9,"Rozner, Antoine",18770,2.2,bet365,0.5424666666666667,,"Paul, Jeremy, Guillamoundeguy, Oihan",2.2,bet365,0.08792121212121212,0.19342666666666675,True,True
+9,"Paul, Jeremy",22087,3.8,unibet,0.18106666666666668,,"Rozner, Antoine, Guillamoundeguy, Oihan",3.8,unibet,-0.08209122807017541,-0.3119466666666666,False,False
+9,"Guillamoundeguy, Oihan",28239,2.8,bet365,0.2764666666666667,,"Rozner, Antoine, Paul, Jeremy",2.8,bet365,-0.08067619047619046,-0.22589333333333333,False,False
+10,"Detry, Thomas",14181,2.55,unibet,0.3279,,"Saddier, Adrien, Ferguson, Ewen",2.55,unibet,-0.06425686274509806,-0.16385499999999997,False,False
+10,"Saddier, Adrien",14792,3.25,bet365,0.2457,,"Detry, Thomas, Ferguson, Ewen",3.25,bet365,-0.06199230769230771,-0.20147499999999996,False,False
+10,"Ferguson, Ewen",21646,2.7,bet365,0.4264,,"Detry, Thomas, Saddier, Adrien",2.7,bet365,0.05602962962962965,0.15128000000000008,True,True
+11,"Molinari, Edoardo",7033,5.5,unibet,0.06993333333333333,,"Luiten, Joost, Aberg, Ludvig",5.5,unibet,-0.11188484848484849,-0.6153666666666667,False,False
+11,"Luiten, Joost",10158,3.3,unibet,0.26793333333333336,,"Molinari, Edoardo, Aberg, Ludvig",3.3,unibet,-0.03509696969696968,-0.11581999999999992,False,False
+11,"Aberg, Ludvig",23950,1.71,bet365,0.6621333333333334,,"Molinari, Edoardo, Luiten, Joost",1.71,bet365,0.07733801169590648,0.13224800000000003,True,True
+12,"Manassero, Matteo",11460,3.6,bet365,0.27286666666666665,,"Hovland, Viktor, Katsuragawa, Yuto",3.6,bet365,-0.004911111111111144,-0.01768000000000014,False,False
+12,"Hovland, Viktor",18841,1.8,unibet,0.5824666666666668,,"Manassero, Matteo, Katsuragawa, Yuto",1.8,unibet,0.02691111111111122,0.04844000000000026,True,True
+12,"Katsuragawa, Yuto",20448,4.2,bet365,0.14466666666666667,,"Manassero, Matteo, Hovland, Viktor",4.2,bet365,-0.09342857142857142,-0.3923999999999999,False,False
+13,"Pavon, Matthieu",19960,2.62,bet365,0.4097,,"Veerman, Johannes, Zhou, Yanhan",2.62,bet365,0.02802061068702294,0.07341399999999998,True,True
+13,"Veerman, Johannes",20522,2.63,unibet,0.3488,,"Pavon, Matthieu, Zhou, Yanhan",2.63,unibet,-0.03142813688212931,-0.08265600000000006,False,False
+13,"Zhou, Yanhan",29119,3.1,unibet,0.2415,,"Pavon, Matthieu, Veerman, Johannes",3.1,unibet,-0.08108064516129032,-0.25134999999999996,False,False
+14,"Guerrier, Julien",10201,3.75,unibet,0.18066666666666667,,"Kimsey, Nathan, Gerard, Ryan",3.75,unibet,-0.086,-0.3225,False,False
+14,"Kimsey, Nathan",18027,3.1,unibet,0.23256666666666662,,"Guerrier, Julien, Gerard, Ryan",3.1,unibet,-0.0900139784946237,-0.2790433333333335,False,False
+14,"Gerard, Ryan",29767,2.1,bet365,0.5867666666666667,,"Guerrier, Julien, Kimsey, Nathan",2.1,bet365,0.1105761904761905,0.23221000000000003,True,True
+16,"Scrivener, Jason",12734,3.6,bet365,0.2157666666666667,,"Laporta, Francesco, De Leo, Gregorio",3.6,bet365,-0.0620111111111111,-0.22323999999999988,False,False
+16,"Laporta, Francesco",14987,2.4,bet365,0.4217666666666666,,"Scrivener, Jason, De Leo, Gregorio",2.4,bet365,0.005099999999999938,0.012239999999999807,True,True
+16,"De Leo, Gregorio",26506,2.8,unibet,0.3624666666666667,,"Scrivener, Jason, Laporta, Francesco",2.8,unibet,0.005323809523809564,0.014906666666666735,True,True
+17,"Dean, Joe",16497,2.8,bet365,0.27886666666666665,,"Kim, Michael, Bairstow, Sam",2.8,bet365,-0.0782761904761905,-0.21917333333333344,False,False
+17,"Kim, Michael",17543,2.6,bet365,0.4259666666666666,,"Dean, Joe, Bairstow, Sam",2.6,bet365,0.04135128205128202,0.10751333333333324,True,True
+17,"Bairstow, Sam",28615,2.88,unibet,0.29516666666666663,,"Dean, Joe, Kim, Michael",2.88,unibet,-0.05205555555555558,-0.14992000000000016,False,False
+18,"Siem, Marcel",6950,4.2,bet365,0.15576666666666666,,"Winther, Jeff, Migliozzi, Guido",4.2,bet365,-0.08232857142857142,-0.34578000000000003,False,False
+18,"Winther, Jeff",15680,2.4,unibet,0.4284666666666666,,"Siem, Marcel, Migliozzi, Guido",2.4,unibet,0.011799999999999922,0.02831999999999979,True,True
+18,"Migliozzi, Guido",17357,2.37,bet365,0.4157666666666666,,"Siem, Marcel, Winther, Jeff",2.37,bet365,-0.00617426160337553,-0.014633000000000118,False,False
+19,"Reitan, Kristoffer",21407,2.4,bet365,0.3499666666666666,,"Hidalgo, Angel, Chacarra, Eugenio",2.4,bet365,-0.06670000000000009,-0.16008000000000028,False,False
+19,"Hidalgo, Angel",24127,4.0,unibet,0.1838666666666667,,"Reitan, Kristoffer, Chacarra, Eugenio",4.0,unibet,-0.0661333333333333,-0.2645333333333332,False,False
+19,"Chacarra, Eugenio",26745,2.45,bet365,0.4661666666666668,,"Reitan, Kristoffer, Hidalgo, Angel",2.45,bet365,0.05800340136054438,0.14210833333333373,True,True
+20,"Stone, Brandon",15229,3.9,unibet,0.2093,,"Fitzpatrick, Matt, Vaillant, Tom",3.9,unibet,-0.04711025641025643,-0.18372999999999995,False,False
+20,"Fitzpatrick, Matt",17646,1.83,bet365,0.5787,,"Stone, Brandon, Vaillant, Tom",1.83,bet365,0.03225191256830606,0.059021000000000046,True,True
+20,"Vaillant, Tom",28157,3.55,unibet,0.212,,"Stone, Brandon, Fitzpatrick, Matt",3.55,unibet,-0.06969014084507044,-0.24740000000000006,False,False
