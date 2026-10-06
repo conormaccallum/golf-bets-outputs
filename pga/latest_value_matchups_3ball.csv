@@ -1,46 +1,46 @@
-group_id,player_name,dg_id,odds,book,p_model,p_push,opponents,market_odds_best_dec,market_book_best,edge_prob,ev_per_unit,value_flag,bet_flag
-1,"Kohles, Ben",16395,2.88,unibet,0.32266666666666666,,"Mitchell, Keith, Kim, Michael",2.88,unibet,-0.024555555555555553,-0.07072000000000012,False,False
-1,"Mitchell, Keith",17365,2.7,bet365,0.3486666666666666,,"Kohles, Ben, Kim, Michael",2.7,bet365,-0.021703703703703725,-0.058599999999999985,False,False
-1,"Kim, Michael",17543,2.75,bet365,0.32866666666666666,,"Kohles, Ben, Mitchell, Keith",2.75,bet365,-0.034969696969696984,-0.09616666666666673,False,False
-2,"McCarthy, Denny",19870,3.5,bet365,0.26180000000000003,,"Nakajima, Keita, Greyserman, Max",3.5,bet365,-0.023914285714285666,-0.08369999999999989,False,False
-2,"Nakajima, Keita",21074,2.4,bet365,0.4299,,"McCarthy, Denny, Greyserman, Max",2.4,bet365,0.01323333333333332,0.0317599999999999,True,True
-2,"Greyserman, Max",23465,2.7,unibet,0.3083,,"McCarthy, Denny, Nakajima, Keita",2.7,unibet,-0.06207037037037033,-0.1675899999999999,False,False
-4,"Horschel, Billy",11276,3.2,unibet,0.2914333333333333,,"Castillo, Ricky, Brennan, Michael",3.2,unibet,-0.021066666666666678,-0.06741333333333333,False,False
-4,"Castillo, Ricky",27819,3.0,bet365,0.2622333333333333,,"Horschel, Billy, Brennan, Michael",3.0,bet365,-0.0711,-0.21330000000000005,False,False
-4,"Brennan, Michael",29197,2.3,bet365,0.4463333333333334,,"Horschel, Billy, Castillo, Ricky",2.3,bet365,0.011550724637681198,0.02656666666666685,True,True
-5,"Jaeger, Stephan",16394,3.1,unibet,0.25539999999999996,,"Thorbjornsen, Michael, McCarty, Matt",3.1,unibet,-0.06718064516129035,-0.2082600000000001,False,False
-5,"Thorbjornsen, Michael",26649,2.25,bet365,0.4779000000000001,,"Jaeger, Stephan, McCarty, Matt",2.25,bet365,0.03345555555555568,0.0752750000000002,True,True
-5,"McCarty, Matt",28635,3.2,bet365,0.26669999999999994,,"Jaeger, Stephan, Thorbjornsen, Michael",3.2,bet365,-0.04580000000000006,-0.14656000000000013,False,False
-6,"Smalley, Alex",18474,2.75,unibet,0.4532999999999999,,"McNealy, Maverick, Echavarria, Nico",2.75,unibet,0.08966363636363628,0.24657499999999977,True,True
-6,"McNealy, Maverick",18634,2.3,bet365,0.3554999999999999,,"Smalley, Alex, Echavarria, Nico",2.3,bet365,-0.07928260869565229,-0.18235000000000023,False,False
-6,"Echavarria, Nico",22833,3.75,unibet,0.19120000000000004,,"Smalley, Alex, McNealy, Maverick",3.75,unibet,-0.07546666666666663,-0.2829999999999999,False,False
-7,"Spieth, Jordan",14636,3.25,unibet,0.3177,,"Lee, Min Woo, Im, Sungjae",3.25,unibet,0.010007692307692273,0.032524999999999915,True,True
-7,"Lee, Min Woo",16841,2.5,bet365,0.3933999999999999,,"Spieth, Jordan, Im, Sungjae",2.5,bet365,-0.006600000000000106,-0.01650000000000018,False,False
-7,"Im, Sungjae",17488,2.7,unibet,0.28890000000000005,,"Spieth, Jordan, Lee, Min Woo",2.7,unibet,-0.0814703703703703,-0.21996999999999983,False,False
-8,"Schauffele, Xander",19895,2.4,bet365,0.4188999999999999,,"Morikawa, Collin, Bridgeman, Jacob",2.4,bet365,0.0022333333333331984,0.005359999999999587,True,True
-8,"Morikawa, Collin",22085,2.75,bet365,0.35219999999999996,,"Schauffele, Xander, Bridgeman, Jacob",2.75,bet365,-0.011436363636363689,-0.03145000000000009,False,False
-8,"Bridgeman, Jacob",29433,3.25,unibet,0.22890000000000005,,"Schauffele, Xander, Morikawa, Collin",3.25,unibet,-0.07879230769230766,-0.25607499999999983,False,False
-9,"Taylor, Nick",13126,2.62,bet365,0.31303333333333333,,"Pendrith, Taylor, Potgieter, Aldrich",2.62,bet365,-0.06864605597964374,-0.17985266666666666,False,False
-9,"Pendrith, Taylor",17780,2.8,unibet,0.3755333333333333,,"Taylor, Nick, Potgieter, Aldrich",2.8,unibet,0.018390476190476124,0.05149333333333306,True,True
-9,"Potgieter, Aldrich",27900,3.0,unibet,0.3114333333333333,,"Taylor, Nick, Pendrith, Taylor",3.0,unibet,-0.02190000000000003,-0.0657000000000002,False,False
-11,"Parry, John",13764,3.0,bet365,0.3323666666666666,,"Kozuma, Jinichiro, Wallace, Matt",3.0,bet365,-0.0009666666666667267,-0.0029000000000002357,False,False
-11,"Kozuma, Jinichiro",14209,3.75,unibet,0.1699666666666667,,"Parry, John, Wallace, Matt",3.75,unibet,-0.09669999999999995,-0.36262499999999986,False,False
-11,"Wallace, Matt",20706,2.15,bet365,0.4976666666666668,,"Parry, John, Kozuma, Jinichiro",2.15,bet365,0.03255038759689938,0.06998333333333362,True,True
-16,"Homa, Max",17538,3.0,bet365,0.26086666666666664,,"Kitayama, Kurt, Fisk, Steven",3.0,bet365,-0.07246666666666668,-0.21740000000000015,False,False
-16,"Kitayama, Kurt",21891,2.4,bet365,0.4786666666666667,,"Homa, Max, Fisk, Steven",2.4,bet365,0.062,0.14880000000000004,True,True
-16,"Fisk, Steven",26657,2.9,bet365,0.2604666666666666,,"Homa, Max, Kitayama, Kurt",2.9,bet365,-0.08436091954022995,-0.2446466666666668,False,False
-18,"Scott, Adam",6430,3.0,bet365,0.3988,,"Thomas, Justin, Clark, Wyndham",3.0,bet365,0.06546666666666667,0.19640000000000002,True,True
-18,"Thomas, Justin",14139,2.75,bet365,0.2824,,"Scott, Adam, Clark, Wyndham",2.75,bet365,-0.08123636363636366,-0.22340000000000004,False,False
-18,"Clark, Wyndham",23604,2.63,unibet,0.3188,,"Scott, Adam, Thomas, Justin",2.63,unibet,-0.061428136882129336,-0.16155600000000014,False,False
-19,"Finau, Tony",11676,4.0,bet365,0.17416666666666678,,"Yu, Kevin, Gerard, Ryan",4.0,bet365,-0.07583333333333322,-0.3033333333333329,False,False
-19,"Yu, Kevin",17881,2.63,unibet,0.3233666666666666,,"Finau, Tony, Gerard, Ryan",2.63,unibet,-0.05686147021546273,-0.1495456666666669,False,False
-19,"Gerard, Ryan",29767,2.2,bet365,0.5024666666666668,,"Finau, Tony, Yu, Kevin",2.2,bet365,0.04792121212121231,0.10542666666666711,True,True
-20,"Fowler, Rickie",12965,3.1,unibet,0.27706666666666663,,"Matsuyama, Hideki, Bradley, Keegan",3.1,unibet,-0.045513978494623686,-0.14109333333333351,False,False
-20,"Matsuyama, Hideki",13562,2.37,bet365,0.3836666666666666,,"Fowler, Rickie, Bradley, Keegan",2.37,bet365,-0.03827426160337555,-0.09071000000000007,False,False
-20,"Bradley, Keegan",13872,3.0,bet365,0.3392666666666666,,"Fowler, Rickie, Matsuyama, Hideki",3.0,bet365,0.0059333333333332905,0.017799999999999816,True,True
-21,"Harman, Brian",8825,2.5,bet365,0.36603333333333327,,"Hoge, Tom, Thompson, Davis",2.5,bet365,-0.033966666666666756,-0.08491666666666686,False,False
-21,"Hoge, Tom",15575,3.6,bet365,0.2467333333333333,,"Harman, Brian, Thompson, Davis",3.6,bet365,-0.031044444444444486,-0.11176000000000019,False,False
-21,"Thompson, Davis",27364,2.4,bet365,0.38723333333333326,,"Harman, Brian, Hoge, Tom",2.4,bet365,-0.029433333333333422,-0.07064000000000015,False,False
-23,"Putnam, Andrew",14704,3.0,bet365,0.2664666666666667,,"Lipsky, David, Hodges, Lee",3.0,bet365,-0.06686666666666663,-0.2006,False,False
-23,"Lipsky, David",15980,3.2,bet365,0.2595666666666667,,"Putnam, Andrew, Hodges, Lee",3.2,bet365,-0.05293333333333328,-0.16938666666666646,False,False
-23,"Hodges, Lee",25157,2.25,bet365,0.4739666666666666,,"Putnam, Andrew, Lipsky, David",2.25,bet365,0.029522222222222172,0.06642499999999985,True,True
+group_id,player_name,dg_id,odds,book,p_model,p_push,opponents,market_odds_best_dec,market_book_best,edge_prob,ev_per_unit,value_flag,strategy_qualified,strategy_name,strategy_tier,strategy_rule,strategy_stake_multiplier,bet_flag
+1,"Kohles, Ben",16395,2.8,bet365,0.32266666666666666,,"Mitchell, Keith, Kim, Michael",2.8,bet365,-0.034476190476190494,-0.09653333333333347,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+1,"Mitchell, Keith",17365,2.7,bet365,0.3486666666666666,,"Kohles, Ben, Kim, Michael",2.7,bet365,-0.021703703703703725,-0.058599999999999985,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+1,"Kim, Michael",17543,2.75,bet365,0.32866666666666666,,"Kohles, Ben, Mitchell, Keith",2.75,bet365,-0.034969696969696984,-0.09616666666666673,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+2,"McCarthy, Denny",19870,3.5,bet365,0.26180000000000003,,"Nakajima, Keita, Greyserman, Max",3.5,bet365,-0.023914285714285666,-0.08369999999999989,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+2,"Nakajima, Keita",21074,2.4,bet365,0.4299,,"McCarthy, Denny, Greyserman, Max",2.4,bet365,0.01323333333333332,0.0317599999999999,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+2,"Greyserman, Max",23465,2.6,bet365,0.3083,,"McCarthy, Denny, Nakajima, Keita",2.6,bet365,-0.07631538461538456,-0.19841999999999993,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+4,"Horschel, Billy",11276,3.1,bet365,0.2914333333333333,,"Castillo, Ricky, Brennan, Michael",3.1,bet365,-0.03114731182795699,-0.09655666666666662,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+4,"Castillo, Ricky",27819,3.0,bet365,0.2622333333333333,,"Horschel, Billy, Brennan, Michael",3.0,bet365,-0.0711,-0.21330000000000005,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+4,"Brennan, Michael",29197,2.3,bet365,0.4463333333333334,,"Horschel, Billy, Castillo, Ricky",2.3,bet365,0.011550724637681198,0.02656666666666685,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+5,"Jaeger, Stephan",16394,3.0,bet365,0.25539999999999996,,"Thorbjornsen, Michael, McCarty, Matt",3.0,bet365,-0.07793333333333335,-0.23380000000000012,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+5,"Thorbjornsen, Michael",26649,2.25,bet365,0.4779000000000001,,"Jaeger, Stephan, McCarty, Matt",2.25,bet365,0.03345555555555568,0.0752750000000002,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+5,"McCarty, Matt",28635,3.2,bet365,0.26669999999999994,,"Jaeger, Stephan, Thorbjornsen, Michael",3.2,bet365,-0.04580000000000006,-0.14656000000000013,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+6,"Smalley, Alex",18474,2.7,bet365,0.4532999999999999,,"McNealy, Maverick, Echavarria, Nico",2.7,bet365,0.08292962962962958,0.22390999999999983,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+6,"McNealy, Maverick",18634,2.3,bet365,0.3554999999999999,,"Smalley, Alex, Echavarria, Nico",2.3,bet365,-0.07928260869565229,-0.18235000000000023,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+6,"Echavarria, Nico",22833,3.5,bet365,0.19120000000000004,,"Smalley, Alex, McNealy, Maverick",3.5,bet365,-0.09451428571428566,-0.33079999999999987,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+7,"Spieth, Jordan",14636,3.2,bet365,0.3177,,"Lee, Min Woo, Im, Sungjae",3.2,bet365,0.005199999999999982,0.016639999999999988,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+7,"Lee, Min Woo",16841,2.5,bet365,0.3933999999999999,,"Spieth, Jordan, Im, Sungjae",2.5,bet365,-0.006600000000000106,-0.01650000000000018,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+7,"Im, Sungjae",17488,2.62,bet365,0.28890000000000005,,"Spieth, Jordan, Lee, Min Woo",2.62,bet365,-0.09277938931297702,-0.24308199999999985,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+8,"Schauffele, Xander",19895,2.4,bet365,0.4188999999999999,,"Morikawa, Collin, Bridgeman, Jacob",2.4,bet365,0.0022333333333331984,0.005359999999999587,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+8,"Morikawa, Collin",22085,2.75,bet365,0.35219999999999996,,"Schauffele, Xander, Bridgeman, Jacob",2.75,bet365,-0.011436363636363689,-0.03145000000000009,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+8,"Bridgeman, Jacob",29433,3.2,bet365,0.22890000000000005,,"Schauffele, Xander, Morikawa, Collin",3.2,bet365,-0.08359999999999995,-0.26751999999999976,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+9,"Taylor, Nick",13126,2.62,bet365,0.31303333333333333,,"Pendrith, Taylor, Potgieter, Aldrich",2.62,bet365,-0.06864605597964374,-0.17985266666666666,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+9,"Pendrith, Taylor",17780,2.7,bet365,0.3755333333333333,,"Taylor, Nick, Potgieter, Aldrich",2.7,bet365,0.005162962962962925,0.013939999999999952,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+9,"Potgieter, Aldrich",27900,2.9,bet365,0.3114333333333333,,"Taylor, Nick, Pendrith, Taylor",2.9,bet365,-0.03339425287356329,-0.0968433333333335,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+11,"Parry, John",13764,3.0,bet365,0.3323666666666666,,"Kozuma, Jinichiro, Wallace, Matt",3.0,bet365,-0.0009666666666667267,-0.0029000000000002357,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+11,"Kozuma, Jinichiro",14209,3.4,bet365,0.1699666666666667,,"Parry, John, Wallace, Matt",3.4,bet365,-0.12415098039215683,-0.4221133333333332,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+11,"Wallace, Matt",20706,2.15,bet365,0.4976666666666668,,"Parry, John, Kozuma, Jinichiro",2.15,bet365,0.03255038759689938,0.06998333333333362,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+16,"Homa, Max",17538,3.0,bet365,0.26086666666666664,,"Kitayama, Kurt, Fisk, Steven",3.0,bet365,-0.07246666666666668,-0.21740000000000015,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+16,"Kitayama, Kurt",21891,2.4,bet365,0.4786666666666667,,"Homa, Max, Fisk, Steven",2.4,bet365,0.062,0.14880000000000004,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+16,"Fisk, Steven",26657,2.9,bet365,0.2604666666666666,,"Homa, Max, Kitayama, Kurt",2.9,bet365,-0.08436091954022995,-0.2446466666666668,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+18,"Scott, Adam",6430,3.0,bet365,0.3988,,"Thomas, Justin, Clark, Wyndham",3.0,bet365,0.06546666666666667,0.19640000000000002,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+18,"Thomas, Justin",14139,2.75,bet365,0.2824,,"Scott, Adam, Clark, Wyndham",2.75,bet365,-0.08123636363636366,-0.22340000000000004,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+18,"Clark, Wyndham",23604,2.5,bet365,0.3188,,"Scott, Adam, Thomas, Justin",2.5,bet365,-0.08120000000000005,-0.20300000000000007,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+19,"Finau, Tony",11676,4.0,bet365,0.17416666666666678,,"Yu, Kevin, Gerard, Ryan",4.0,bet365,-0.07583333333333322,-0.3033333333333329,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+19,"Yu, Kevin",17881,2.6,bet365,0.3233666666666666,,"Finau, Tony, Gerard, Ryan",2.6,bet365,-0.061248717948718,-0.15924666666666687,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+19,"Gerard, Ryan",29767,2.2,bet365,0.5024666666666668,,"Finau, Tony, Yu, Kevin",2.2,bet365,0.04792121212121231,0.10542666666666711,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+20,"Fowler, Rickie",12965,2.9,bet365,0.27706666666666663,,"Matsuyama, Hideki, Bradley, Keegan",2.9,bet365,-0.06776091954022995,-0.19650666666666683,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+20,"Matsuyama, Hideki",13562,2.37,bet365,0.3836666666666666,,"Fowler, Rickie, Bradley, Keegan",2.37,bet365,-0.03827426160337555,-0.09071000000000007,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+20,"Bradley, Keegan",13872,3.0,bet365,0.3392666666666666,,"Fowler, Rickie, Matsuyama, Hideki",3.0,bet365,0.0059333333333332905,0.017799999999999816,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+21,"Harman, Brian",8825,2.5,bet365,0.36603333333333327,,"Hoge, Tom, Thompson, Davis",2.5,bet365,-0.033966666666666756,-0.08491666666666686,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+21,"Hoge, Tom",15575,3.6,bet365,0.2467333333333333,,"Harman, Brian, Thompson, Davis",3.6,bet365,-0.031044444444444486,-0.11176000000000019,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+21,"Thompson, Davis",27364,2.4,bet365,0.38723333333333326,,"Harman, Brian, Hoge, Tom",2.4,bet365,-0.029433333333333422,-0.07064000000000015,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+23,"Putnam, Andrew",14704,3.0,bet365,0.2664666666666667,,"Lipsky, David, Hodges, Lee",3.0,bet365,-0.06686666666666663,-0.2006,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+23,"Lipsky, David",15980,3.2,bet365,0.2595666666666667,,"Putnam, Andrew, Hodges, Lee",3.2,bet365,-0.05293333333333328,-0.16938666666666646,False,False,3-ball: watchlist only,Watchlist,not_backtested,,False
+23,"Hodges, Lee",25157,2.25,bet365,0.4739666666666666,,"Putnam, Andrew, Lipsky, David",2.25,bet365,0.029522222222222172,0.06642499999999985,True,False,3-ball: watchlist only,Watchlist,not_backtested,,False
