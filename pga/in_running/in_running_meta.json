@@ -1,0 +1,41 @@
+{
+  "mode": "in_running",
+  "tour": "pga",
+  "eventName": "Butterfield Bermuda Championship",
+  "runAt": "2026-10-21T13:31:34.817771+00:00",
+  "oddsLastUpdated": null,
+  "predictionsLastUpdated": "2026-10-11 3:40 PM",
+  "deadHeat": true,
+  "probabilitySource": "DataGolf /preds/in-play",
+  "marketWeight": 0.0,
+  "markets": [
+    {
+      "market": "win",
+      "rows": 0,
+      "eventName": "Butterfield Bermuda Championship",
+      "status": "unavailable",
+      "reason": "No live comparison: forecasts and prices refer to different events"
+    },
+    {
+      "market": "top_5",
+      "rows": 0,
+      "eventName": "Butterfield Bermuda Championship",
+      "status": "unavailable",
+      "reason": "No live comparison: forecasts and prices refer to different events"
+    },
+    {
+      "market": "top_10",
+      "rows": 0,
+      "eventName": "Butterfield Bermuda Championship",
+      "status": "unavailable",
+      "reason": "No live comparison: forecasts and prices refer to different events"
+    },
+    {
+      "market": "top_20",
+      "rows": 0,
+      "eventName": "Butterfield Bermuda Championship",
+      "status": "unavailable",
+      "reason": "No live comparison: forecasts and prices refer to different events"
+    }
+  ]
+}
