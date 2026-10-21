@@ -1,7 +1,14 @@
 {
-  "runAt": "2026-10-21T09:51:43.091260+00:00",
+  "runAt": "2026-10-21T11:28:15.140490+00:00",
   "tour": "pga",
   "eventId": "528",
   "eventName": "Butterfield Bermuda Championship",
-  "eventYear": 2026
+  "eventYear": 2026,
+  "probabilityIntegrity": {
+    "version": 2,
+    "forecastPlayers": 120,
+    "playersWithCompleteSkills": 91,
+    "missingSkillPolicy": "retain_dg_probability",
+    "sourceCommit": "7d0c5488e28559c6eb997ca67880fa1ec45b4843"
+  }
 }

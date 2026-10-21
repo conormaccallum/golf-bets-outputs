@@ -1,7 +1,14 @@
 {
-  "runAt": "2026-10-21T09:51:51.395777+00:00",
+  "runAt": "2026-10-21T11:28:24.636228+00:00",
   "tour": "dp",
   "eventId": "2026141",
   "eventName": "Genesis Championship",
-  "eventYear": 2026
+  "eventYear": 2026,
+  "probabilityIntegrity": {
+    "version": 2,
+    "forecastPlayers": 126,
+    "playersWithCompleteSkills": 92,
+    "missingSkillPolicy": "retain_dg_probability",
+    "sourceCommit": "7d0c5488e28559c6eb997ca67880fa1ec45b4843"
+  }
 }

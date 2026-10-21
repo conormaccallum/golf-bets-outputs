@@ -3,5 +3,12 @@
   "eventName": "Butterfield Bermuda Championship",
   "eventYear": 2026,
   "tour": "pga",
-  "refreshLockDay": "THURSDAY"
+  "refreshLockDay": "THURSDAY",
+  "probabilityIntegrity": {
+    "version": 2,
+    "forecastPlayers": 120,
+    "playersWithCompleteSkills": 91,
+    "missingSkillPolicy": "retain_dg_probability",
+    "sourceCommit": "7d0c5488e28559c6eb997ca67880fa1ec45b4843"
+  }
 }

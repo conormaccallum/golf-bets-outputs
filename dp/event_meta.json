@@ -3,5 +3,12 @@
   "eventName": "Genesis Championship",
   "eventYear": 2026,
   "tour": "dp",
-  "refreshLockDay": "THURSDAY"
+  "refreshLockDay": "THURSDAY",
+  "probabilityIntegrity": {
+    "version": 2,
+    "forecastPlayers": 126,
+    "playersWithCompleteSkills": 92,
+    "missingSkillPolicy": "retain_dg_probability",
+    "sourceCommit": "7d0c5488e28559c6eb997ca67880fa1ec45b4843"
+  }
 }
