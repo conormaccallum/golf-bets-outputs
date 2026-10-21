@@ -1,2 +1,2 @@
 placed_at_utc,bet_type,strategy_name,strategy_tier,player_name,dg_id,opponents,market_book_best,market_odds_best_dec,stake_units,p_model,edge_prob,ev_per_unit,kelly_full,kelly_frac,strategy_rule,stake_multiplier,result_win_flag,return_units
-2026-10-21 11:33:20,Make Cut,Make Cut: DG anchor + putting overlay,Tier 2 - candidate,"Veerman, Johannes",20522,,bet365,1.62,33.7,0.6688879713008,0.0516040206835161,0.083598513507296,0.13483631210854205,0.03370907802713551,standard,1.0,,
+2026-10-21 12:52:31,Make Cut,Make Cut: DG anchor + putting overlay,Tier 2 - candidate,"Veerman, Johannes",20522,,bet365,1.62,33.7,0.6688879713008,0.0516040206835161,0.083598513507296,0.13483631210854205,0.03370907802713551,standard,1.0,,
