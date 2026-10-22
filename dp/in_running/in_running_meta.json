@@ -2,9 +2,9 @@
   "mode": "in_running",
   "tour": "dp",
   "eventName": "Genesis Championship",
-  "runAt": "2026-10-21T13:31:36.060633+00:00",
+  "runAt": "2026-10-22T06:47:37.684689+00:00",
   "oddsLastUpdated": null,
-  "predictionsLastUpdated": "2026-10-18 4:29 PM",
+  "predictionsLastUpdated": "2026-10-22 3:44 PM",
   "deadHeat": true,
   "probabilitySource": "DataGolf /preds/in-play",
   "marketWeight": 0.0,
@@ -14,28 +14,28 @@
       "rows": 0,
       "eventName": "Genesis Championship",
       "status": "unavailable",
-      "reason": "No live comparison: forecasts and prices refer to different events"
+      "reason": "No live comparison: forecasts or prices are stale"
     },
     {
       "market": "top_5",
       "rows": 0,
       "eventName": "Genesis Championship",
       "status": "unavailable",
-      "reason": "No live comparison: forecasts and prices refer to different events"
+      "reason": "No live comparison: forecasts or prices are stale"
     },
     {
       "market": "top_10",
       "rows": 0,
       "eventName": "Genesis Championship",
       "status": "unavailable",
-      "reason": "No live comparison: forecasts and prices refer to different events"
+      "reason": "No live comparison: forecasts or prices are stale"
     },
     {
       "market": "top_20",
       "rows": 0,
       "eventName": "Genesis Championship",
       "status": "unavailable",
-      "reason": "No live comparison: forecasts and prices refer to different events"
+      "reason": "No live comparison: forecasts or prices are stale"
     }
   ]
 }
