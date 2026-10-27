@@ -5,10 +5,43 @@
   "tour": "pga",
   "refreshLockDay": "THURSDAY",
   "probabilityIntegrity": {
-    "version": 2,
+    "version": 3,
     "forecastPlayers": 120,
     "playersWithCompleteSkills": 103,
-    "missingSkillPolicy": "retain_dg_probability",
-    "sourceCommit": "4b8ba09140356712e734f92e2734f38201c625af"
+    "missingSkillPolicy": "retain_all_players; market_specific_missing_feature_policy",
+    "upsideMissingHistoryPolicy": "zero_feature_zscore; full_field_normalization; minimum_history_for_bets",
+    "sourceCommit": "29d197b682b7218602a9cdc10afbc8d510a69e0a"
+  },
+  "upsideStrategies": {
+    "specifications": {
+      "win": {
+        "id": "pga_win_flat50_b020_ev040_cap100_prior50_v1",
+        "feature": "flat_50",
+        "anchor": "p_win_history_fit",
+        "beta": 0.2,
+        "slots": 1.0,
+        "min_prior": 50,
+        "min_ev": 0.4,
+        "odds_cap": 100.0,
+        "name": "Win: DG course-adjusted + prior-50-round category SG"
+      },
+      "top_5": {
+        "id": "pga_top5_total50_b035_ev040_cap10_prior24_v1",
+        "feature": "sg_total_50",
+        "anchor": "p_top5_history_fit",
+        "beta": 0.35,
+        "slots": 5.0,
+        "min_prior": 24,
+        "min_ev": 0.4,
+        "odds_cap": 10.0,
+        "name": "Top 5: DG course-adjusted + prior-50-round total SG"
+      }
+    },
+    "historyCutoff": "2026-10-29",
+    "historyTour": "pga",
+    "historyStartYear": 2018,
+    "historyWindow": 50,
+    "historyUniverse": "PGA events with SG categories",
+    "normalizationUniverse": "full forecast field before odds/history eligibility"
   }
 }
