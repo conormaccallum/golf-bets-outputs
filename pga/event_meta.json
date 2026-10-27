@@ -1,14 +1,14 @@
 {
-  "eventId": "528",
-  "eventName": "Butterfield Bermuda Championship",
+  "eventId": "540",
+  "eventName": "VidantaWorld Mexico Open",
   "eventYear": 2026,
   "tour": "pga",
   "refreshLockDay": "THURSDAY",
   "probabilityIntegrity": {
     "version": 2,
     "forecastPlayers": 120,
-    "playersWithCompleteSkills": 91,
+    "playersWithCompleteSkills": 103,
     "missingSkillPolicy": "retain_dg_probability",
-    "sourceCommit": "7d0c5488e28559c6eb997ca67880fa1ec45b4843"
+    "sourceCommit": "4b8ba09140356712e734f92e2734f38201c625af"
   }
 }
