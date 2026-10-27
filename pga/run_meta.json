@@ -1,16 +1,19 @@
 {
-  "runAt": "2026-10-27T14:46:15.711015+00:00",
+  "runAt": "2026-10-27T15:38:46.009106+00:00",
   "tour": "pga",
   "status": "ready",
   "eventId": "540",
   "eventName": "VidantaWorld Mexico Open",
   "eventYear": 2026,
   "probabilityIntegrity": {
-    "version": 3,
+    "version": 4,
     "forecastPlayers": 120,
     "playersWithCompleteSkills": 103,
     "missingSkillPolicy": "retain_all_players; market_specific_missing_feature_policy",
+    "selectedMarketForecast": "baseline_history_fit",
+    "historicalFeaturePolicy": "saved rolling-round/event windows; no projected-skill substitutions",
     "upsideMissingHistoryPolicy": "zero_feature_zscore; full_field_normalization; minimum_history_for_bets",
-    "sourceCommit": "29d197b682b7218602a9cdc10afbc8d510a69e0a"
-  }
+    "sourceCommit": "aaf902b58d4704758bc4b28e5329f90cc5d16c14"
+  },
+  "strategyManifestId": "2026-10-27-all-market-backtest-v4-234a075f935c"
 }
