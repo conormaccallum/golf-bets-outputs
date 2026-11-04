@@ -1,1 +1,1 @@
-dg_id
+strategy_manifest_id,strategy_id,placed_at_utc,bet_type,strategy_name,strategy_tier,player_name,dg_id,opponents,market_book_best,market_odds_best_dec,stake_units,p_model,edge_prob,ev_per_unit,kelly_full,kelly_frac,result_win_flag,return_units

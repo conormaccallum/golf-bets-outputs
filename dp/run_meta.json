@@ -1,10 +1,19 @@
 {
+  "runAt": "2026-11-04T13:25:39.210314+00:00",
   "tour": "dp",
-  "status": "unavailable",
-  "reason": "DataGolf has not supplied the required course-adjusted forecast (baseline_history_fit) for this event.",
-  "eventId": 2026142,
+  "status": "ready",
+  "eventId": "2026142",
   "eventName": "Abu Dhabi Aldar Championship",
-  "eventYear": null,
-  "runAt": "2026-11-04T09:47:53.502313+00:00",
-  "sourceCommit": "980be084ffceb73d6936c082ff6d1ba12657ba27"
+  "eventYear": 2026,
+  "probabilityIntegrity": {
+    "version": 4,
+    "forecastPlayers": 70,
+    "playersWithCompleteSkills": 70,
+    "missingSkillPolicy": "retain_all_players; market_specific_missing_feature_policy",
+    "selectedMarketForecast": "baseline_history",
+    "historicalFeaturePolicy": "saved rolling-round/event windows; no projected-skill substitutions",
+    "upsideMissingHistoryPolicy": "zero_feature_zscore; full_field_normalization; minimum_history_for_bets",
+    "sourceCommit": "b761022322a942e703cd432721e7d4db17115bb4"
+  },
+  "strategyManifestId": "2026-10-27-all-market-backtest-v4-234a075f935c"
 }

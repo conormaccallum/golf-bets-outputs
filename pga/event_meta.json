@@ -12,8 +12,11 @@
     "selectedMarketForecast": "baseline_history_fit",
     "historicalFeaturePolicy": "saved rolling-round/event windows; no projected-skill substitutions",
     "upsideMissingHistoryPolicy": "zero_feature_zscore; full_field_normalization; minimum_history_for_bets",
-    "sourceCommit": "980be084ffceb73d6936c082ff6d1ba12657ba27"
+    "sourceCommit": "b761022322a942e703cd432721e7d4db17115bb4"
   },
+  "forecastSource": "baseline_history_fit",
+  "forecastFallback": false,
+  "forecastNote": "DataGolf course-history/fit forecast.",
   "upsideStrategies": {
     "specifications": {
       "win": {
