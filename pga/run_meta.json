@@ -1,19 +1,19 @@
 {
-  "runAt": "2026-10-28T07:35:18.380427+00:00",
+  "runAt": "2026-11-04T09:27:28.771496+00:00",
   "tour": "pga",
   "status": "ready",
-  "eventId": "540",
-  "eventName": "VidantaWorld Mexico Open",
+  "eventId": "457",
+  "eventName": "World Wide Technology Championship",
   "eventYear": 2026,
   "probabilityIntegrity": {
     "version": 4,
     "forecastPlayers": 120,
-    "playersWithCompleteSkills": 103,
+    "playersWithCompleteSkills": 106,
     "missingSkillPolicy": "retain_all_players; market_specific_missing_feature_policy",
     "selectedMarketForecast": "baseline_history_fit",
     "historicalFeaturePolicy": "saved rolling-round/event windows; no projected-skill substitutions",
     "upsideMissingHistoryPolicy": "zero_feature_zscore; full_field_normalization; minimum_history_for_bets",
-    "sourceCommit": "aaf902b58d4704758bc4b28e5329f90cc5d16c14"
+    "sourceCommit": "980be084ffceb73d6936c082ff6d1ba12657ba27"
   },
   "strategyManifestId": "2026-10-27-all-market-backtest-v4-234a075f935c"
 }

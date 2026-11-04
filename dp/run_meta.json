@@ -1,10 +1,10 @@
 {
   "tour": "dp",
   "status": "unavailable",
-  "reason": "DataGolf reports no euro event this week.",
-  "eventId": null,
-  "eventName": null,
+  "reason": "DataGolf has not supplied the required course-adjusted forecast (baseline_history_fit) for this event.",
+  "eventId": 2026142,
+  "eventName": "Abu Dhabi Aldar Championship",
   "eventYear": null,
-  "runAt": "2026-10-28T07:35:18.532120+00:00",
-  "sourceCommit": "aaf902b58d4704758bc4b28e5329f90cc5d16c14"
+  "runAt": "2026-11-04T09:27:28.945654+00:00",
+  "sourceCommit": "980be084ffceb73d6936c082ff6d1ba12657ba27"
 }
