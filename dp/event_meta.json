@@ -1,14 +1,14 @@
 {
-  "eventId": "2026142",
-  "eventName": "Abu Dhabi Aldar Championship",
+  "eventId": "2026143",
+  "eventName": "DP World Tour Championship",
   "eventYear": 2026,
   "tour": "dp",
   "refreshLockDay": "THURSDAY",
   "cutPolicy": "no cut; both full-field DataGolf forecasts assign make-cut probability 1",
   "probabilityIntegrity": {
     "version": 4,
-    "forecastPlayers": 70,
-    "playersWithCompleteSkills": 70,
+    "forecastPlayers": 50,
+    "playersWithCompleteSkills": 50,
     "missingSkillPolicy": "retain_all_players; market_specific_missing_feature_policy",
     "selectedMarketForecast": "baseline_history",
     "historicalFeaturePolicy": "saved rolling-round/event windows; no projected-skill substitutions",
@@ -49,7 +49,7 @@
         "source": "top5_win_high_ev_viability"
       }
     },
-    "historyCutoff": "2026-11-05",
+    "historyCutoff": "2026-11-12",
     "historyTour": "pga",
     "historyStartYear": 2018,
     "historyWindow": 50,
@@ -170,7 +170,7 @@
       "in_running": "DG live price watchlist; no matching saved live backtest"
     },
     "contentHash": "234a075f935cf0c3dcf18dd540855d70a3e7c4352517803ec2f2112a30e834a4",
-    "historyCutoff": "2026-11-05"
+    "historyCutoff": "2026-11-12"
   },
   "strategyManifestId": "2026-10-27-all-market-backtest-v4-234a075f935c"
 }

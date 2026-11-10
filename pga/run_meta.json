@@ -1,19 +1,10 @@
 {
-  "runAt": "2026-11-04T21:19:42.163002+00:00",
   "tour": "pga",
-  "status": "ready",
-  "eventId": "457",
-  "eventName": "World Wide Technology Championship",
-  "eventYear": 2026,
-  "probabilityIntegrity": {
-    "version": 4,
-    "forecastPlayers": 120,
-    "playersWithCompleteSkills": 106,
-    "missingSkillPolicy": "retain_all_players; market_specific_missing_feature_policy",
-    "selectedMarketForecast": "baseline_history_fit",
-    "historicalFeaturePolicy": "saved rolling-round/event windows; no projected-skill substitutions",
-    "upsideMissingHistoryPolicy": "zero_feature_zscore; full_field_normalization; minimum_history_for_bets",
-    "sourceCommit": "b761022322a942e703cd432721e7d4db17115bb4"
-  },
-  "strategyManifestId": "2026-10-27-all-market-backtest-v4-234a075f935c"
+  "status": "unavailable",
+  "reason": "Waiting for DataGolf's forecast to match the current tournament field.",
+  "eventId": 558,
+  "eventName": "Austin Championship presented by Compliance Solutions",
+  "eventYear": null,
+  "runAt": "2026-11-10T08:20:01.898148+00:00",
+  "sourceCommit": "b761022322a942e703cd432721e7d4db17115bb4"
 }
