@@ -1,19 +1,19 @@
 {
-  "runAt": "2026-11-11T11:22:49.819387+00:00",
+  "runAt": "2026-11-11T11:32:18.701704+00:00",
   "tour": "pga",
   "status": "ready",
   "eventId": "558",
   "eventName": "Austin Championship",
   "eventYear": 2026,
   "probabilityIntegrity": {
-    "version": 4,
+    "version": 5,
     "forecastPlayers": 120,
     "playersWithCompleteSkills": 107,
     "missingSkillPolicy": "retain_all_players; market_specific_missing_feature_policy",
     "selectedMarketForecast": "baseline",
-    "historicalFeaturePolicy": "DG-only research estimates; historical overlays inactive",
+    "historicalFeaturePolicy": "same rolling windows and formulas on both tours; DP categories fall back to PGA history then current skill; total SG / 4 approximates category mean",
     "upsideMissingHistoryPolicy": "zero_feature_zscore; full_field_normalization; minimum_history_for_bets",
-    "sourceCommit": "4fa6765eae2fceeb301f8382656e822fd19f3ba6"
+    "sourceCommit": "1c0ae8dc8582ac0406815ad18a6fb418fdd572f9"
   },
-  "strategyManifestId": "2026-10-27-all-market-backtest-v4-234a075f935c"
+  "strategyManifestId": "2026-11-11-shared-tours-v5-acea45bed419"
 }
