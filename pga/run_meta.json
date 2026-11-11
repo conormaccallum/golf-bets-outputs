@@ -1,10 +1,19 @@
 {
+  "runAt": "2026-11-11T11:19:02.064173+00:00",
   "tour": "pga",
-  "status": "unavailable",
-  "reason": "Waiting for DataGolf's forecast to match the current tournament field.",
-  "eventId": 558,
-  "eventName": "Austin Championship presented by Compliance Solutions",
-  "eventYear": null,
-  "runAt": "2026-11-11T11:13:28.052944+00:00",
-  "sourceCommit": "b761022322a942e703cd432721e7d4db17115bb4"
+  "status": "ready",
+  "eventId": "558",
+  "eventName": "Austin Championship",
+  "eventYear": 2026,
+  "probabilityIntegrity": {
+    "version": 4,
+    "forecastPlayers": 120,
+    "playersWithCompleteSkills": 107,
+    "missingSkillPolicy": "retain_all_players; market_specific_missing_feature_policy",
+    "selectedMarketForecast": "baseline",
+    "historicalFeaturePolicy": "DG-only research estimates; historical overlays inactive",
+    "upsideMissingHistoryPolicy": "zero_feature_zscore; full_field_normalization; minimum_history_for_bets",
+    "sourceCommit": "4fa6765eae2fceeb301f8382656e822fd19f3ba6"
+  },
+  "strategyManifestId": "2026-10-27-all-market-backtest-v4-234a075f935c"
 }

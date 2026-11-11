@@ -11,13 +11,13 @@
     "playersWithCompleteSkills": 50,
     "missingSkillPolicy": "retain_all_players; market_specific_missing_feature_policy",
     "selectedMarketForecast": "baseline_history",
-    "historicalFeaturePolicy": "saved rolling-round/event windows; no projected-skill substitutions",
+    "historicalFeaturePolicy": "DG-only research estimates; historical overlays inactive",
     "upsideMissingHistoryPolicy": "zero_feature_zscore; full_field_normalization; minimum_history_for_bets",
-    "sourceCommit": "b761022322a942e703cd432721e7d4db17115bb4"
+    "sourceCommit": "4fa6765eae2fceeb301f8382656e822fd19f3ba6"
   },
   "forecastSource": "baseline_history",
   "forecastFallback": true,
-  "forecastNote": "Using DataGolf baseline_history as the closest available forecast; a separate course-fit input is unavailable.",
+  "forecastNote": "Using DataGolf baseline_history as the closest available forecast; a separate course-fit input is unavailable. Research estimates; the PGA backtested strategy is inactive.",
   "upsideStrategies": {
     "specifications": {
       "win": {
