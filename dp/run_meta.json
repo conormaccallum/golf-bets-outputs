@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-11-11T11:34:42.180190+00:00",
+  "runAt": "2026-11-11T11:41:18.787929+00:00",
   "tour": "dp",
   "status": "ready",
   "eventId": "2026143",
@@ -13,7 +13,7 @@
     "selectedMarketForecast": "baseline_history",
     "historicalFeaturePolicy": "same rolling windows and formulas on both tours; DP categories fall back to PGA history then current skill; total SG / 4 approximates category mean",
     "upsideMissingHistoryPolicy": "zero_feature_zscore; full_field_normalization; minimum_history_for_bets",
-    "sourceCommit": "1c0ae8dc8582ac0406815ad18a6fb418fdd572f9"
+    "sourceCommit": "aa53b99f07bb360a713850fee3cce5c7e88d5e5b"
   },
   "strategyManifestId": "2026-11-11-shared-tours-v5-acea45bed419"
 }

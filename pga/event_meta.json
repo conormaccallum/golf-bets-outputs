@@ -12,11 +12,11 @@
     "selectedMarketForecast": "baseline",
     "historicalFeaturePolicy": "same rolling windows and formulas on both tours; DP categories fall back to PGA history then current skill; total SG / 4 approximates category mean",
     "upsideMissingHistoryPolicy": "zero_feature_zscore; full_field_normalization; minimum_history_for_bets",
-    "sourceCommit": "1c0ae8dc8582ac0406815ad18a6fb418fdd572f9"
+    "sourceCommit": "aa53b99f07bb360a713850fee3cce5c7e88d5e5b"
   },
   "forecastSource": "baseline",
   "forecastFallback": true,
-  "forecastNote": "Same model formulas using DataGolf baseline as the closest available anchor; course-history/fit inputs unavailable.",
+  "forecastNote": "Input approximation: course-history/fit probabilities are unavailable, so baseline probabilities supply that input. Your market-specific formula remains active.",
   "inputSources": {
     "forecast_source": {
       "baseline": 120
